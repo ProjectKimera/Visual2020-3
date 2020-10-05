@@ -33,15 +33,19 @@ float[][] SobelL =  { { 1, 0, -1 },
                           
 float[][] mask=EdgeDetection;
 
+PFont f;
+int timer;
 
 void setup() {
   //se carga la imagen y se crea el graphic para modificar la imagen original
-  size(1240, 400);
-  
+  size(1240, 470);
+  background(0, 0, 0);  
   
   myMovie = new Movie(this, "video.mov");
   myMovie.frameRate(frameCount);
   myMovie.loop();
+  f = createFont("Arial", 24, true); 
+  textFont(f);
 }
 
 void convolucion(Movie OriginalVid) {
@@ -100,4 +104,12 @@ void draw() {
     myMovie.read();
   }
   image(myMovie, 0, 0);
+  
+  if (millis() - timer >= 500) {
+    fill(0,0,0);
+    rect(100, myMovie.height + 10, 400, 30);
+    fill(255,255,255);
+    text("Frame Rate: " + frameRate, 100, myMovie.height + 30);
+    timer = millis();
+  }
 }
