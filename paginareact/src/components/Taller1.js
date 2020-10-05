@@ -1,9 +1,147 @@
 import React from 'react';
+import convid from '../vid/convid.mp4'
+import edge from '../img/edge.PNG'
+import blur from '../img/blur.PNG'
+import shar from '../img/shar.PNG'
 
 function Taller1() {
     return(
-        <div className="Taller1">
-            
+        <div className="Taller1 container my-5" style={{color: "white"}}>
+            <div className="row">
+                <div className="col-3">
+                    <div className="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        <a className="nav-link active btn-dark my-2" id="v-pills-gray-tab" data-toggle="pill" href="#v-pills-gray btn-dark" role="tab" aria-controls="v-pills-gray" aria-selected="true">Escala de grises</a>
+                        <a className="nav-link btn-dark my-2" id="v-pills-conv-tab" data-toggle="pill" href="#v-pills-conv" role="tab" aria-controls="v-pills-conv" aria-selected="false">Mascaras de Convolucion</a>
+                        <a className="nav-link btn-dark my-2" id="v-pills-seg-tab" data-toggle="pill" href="#v-pills-seg" role="tab" aria-controls="v-pills-seg" aria-selected="false">Segmentacion</a>
+                        <a className="nav-link btn-dark my-2" id="v-pills-ef-tab" data-toggle="pill" href="#v-pills-ef" role="tab" aria-controls="v-pills-ef" aria-selected="false">Eficencia computacional</a>
+                    </div>
+                </div>
+                <div className="col-9">
+                    <div className="tab-content" id="v-pills-tabContent">
+
+                    <div className="tab-pane fade show active" id="v-pills-gray" role="tabpanel" aria-labelledby="v-pills-gray-tab">
+                        
+                    </div>
+
+                    <div className="tab-pane fade" id="v-pills-conv" role="tabpanel" aria-labelledby="v-pills-conv-tab">
+                        <div className="row my-2">
+                            <video src={convid} className="img-fluid rounded" controls muted>
+                            </video>
+                        </div>
+                        <div className="row my-2">
+                            <p className="text-justify font-weight-bold">
+                            Para el uso de la convolución en imágenes y videos, pasamos cada uno de los píxeles del archivo original al filtro, el cual examina, sucesivamente cada píxel de la imagen, para cada uno de ellos se multiplica el valor de este píxel por el valor correspondiente del kernel, entonces se añade el resultado, y el píxel inicial se regula en este valor resultante final, esto nos permite aplicar mascaras a imágenes y videos, como Edge Detection, Gaussian Blur, Sharpern, Emboss, High Definition, Sobel Left. 
+                            </p>
+                        </div>
+                        <div className="row my-2">
+                            <h3 className="text-justify font-weight-bold">
+                                Edge Detection
+                            </h3>                            
+                        </div>
+                        <div className="row my-2">
+                            <div className="col-sm m-2">
+                                <table className="table table-dark">
+                                    <tbody>
+                                    <tr>
+                                        <td>-1</td>
+                                        <td>-1</td>
+                                        <td>-1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>-1</td>
+                                        <td>8</td>
+                                        <td>-1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>-1</td>
+                                        <td>-1</td>
+                                        <td>-1</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div> 
+                            <div className="col-sm m-2">
+                                <img src={edge} className="img-fluid rounded"/>
+                            </div>                    
+                        </div>
+                        
+                        <div className="row my-2">
+                            <h3 className="text-justify font-weight-bold">
+                                GaussianBlur
+                            </h3>                            
+                        </div>
+                        <div className="row my-2">
+                            <div className="col-sm m-2">
+                                <table className="table table-dark">
+                                    <tbody>
+                                    <tr>
+                                        <td>g</td>
+                                        <td>2g</td>
+                                        <td>g</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2g</td>
+                                        <td>4g</td>
+                                        <td>2g</td>
+                                    </tr>
+                                    <tr>
+                                        <td>g</td>
+                                        <td>2g</td>
+                                        <td>g</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div> 
+                            <div className="col-sm m-2">
+                                <img src={blur} className="img-fluid rounded"/>
+                            </div>                    
+                        </div>
+
+                        <div className="row my-2">
+                            <h3 className="text-justify font-weight-bold">
+                                Sharpen
+                            </h3>                            
+                        </div>
+                        <div className="row my-2">
+                            <div className="col-sm m-2">
+                                <table className="table table-dark">
+                                    <tbody>
+                                    <tr>
+                                        <td>0</td>
+                                        <td>-1</td>
+                                        <td>0</td>
+                                    </tr>
+                                    <tr>
+                                        <td>-1</td>
+                                        <td>5</td>
+                                        <td>-1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>0</td>
+                                        <td>-1</td>
+                                        <td>0</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div> 
+                            <div className="col-sm m-2">
+                                <img src={shar} className="img-fluid rounded"/>
+                            </div>                    
+                        </div>
+
+                    </div>
+
+                    <div className="tab-pane fade" id="v-pills-seg" role="tabpanel" aria-labelledby="v-pills-seg-tab">
+                        
+                    </div>
+
+                    <div className="tab-pane fade" id="v-pills-ef" role="tabpanel" aria-labelledby="v-pills-ef-tab">
+                        
+                    </div>
+
+                    </div>
+                </div>
+            </div>
         </div>
     );
 
