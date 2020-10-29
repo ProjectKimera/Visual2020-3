@@ -273,7 +273,7 @@ function Taller1() {
 
                     <div className="tab-pane fade" id="v-pills-ef" role="tabpanel" aria-labelledby="v-pills-ef-tab">
                         <p className="text-justify font-weight-bold row">
-                        Utilizando la variable del sistema frameRate se mide la velocidad de fotogramas aproximada de la ejecución y cada 500 milisegundos se hace una impresión en el boceto mostrando el valor de esa variable.
+                        Utilizando la variable del sistema frameRate se mide la velocidad de fotogramas aproximada de la ejecución y cada 500 milisegundos se hace una impresión en el boceto mostrando el valor de esa variable. Debido a que la variable frameRate  mide el promedio de fotogramas se observa que al iniciar la ejecución su valor es 0 y a medida que aumenta la cantidad de veces que se ha ejecutado el proceso draw se vuelve más preciso.
                         </p>
                         <div className="row my-2">
                             <h3 className="my-2">Framerate escala de grises</h3>
