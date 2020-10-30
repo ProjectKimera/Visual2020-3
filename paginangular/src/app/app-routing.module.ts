@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { AboutComponent } from './about/about.component';
 import { BreathInfoComponent } from './breath-info/breath-info.component';
+import { FeetInfoComponent } from './feet-info/feet-info.component';
 import { HeringinfoComponent } from './heringinfo/heringinfo.component';
 import { KanisaInfoComponent } from './kanisa-info/kanisa-info.component';
 import { KanizsaComponent } from './kanizsa/kanizsa.component';
@@ -13,7 +14,8 @@ const routes: Routes = [
   {path: 'repo', component: RepoComponent},
   {path: 'kaniza', component: KanisaInfoComponent},
   {path: 'hering', component: HeringinfoComponent},  
-  {path: 'breath', component: BreathInfoComponent}
+  {path: 'breath', component: BreathInfoComponent},
+  {path: 'feet', component: FeetInfoComponent}
 ];
 
 @NgModule({

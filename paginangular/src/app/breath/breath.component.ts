@@ -23,7 +23,7 @@ export class BreathComponent implements OnInit {
       p.setup = () => {
         p.createCanvas(500,500);
         p.noStroke();
-        p.fill(255)
+        //p.fill(255)
       };
 
       p.draw = () => {

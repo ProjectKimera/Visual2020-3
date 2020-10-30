@@ -13,6 +13,8 @@ import { HeringComponent } from './hering/hering.component';
 import { HeringinfoComponent } from './heringinfo/heringinfo.component';
 import { BreathComponent } from './breath/breath.component';
 import { BreathInfoComponent } from './breath-info/breath-info.component';
+import { FeetComponent } from './feet/feet.component';
+import { FeetInfoComponent } from './feet-info/feet-info.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,9 @@ import { BreathInfoComponent } from './breath-info/breath-info.component';
     HeringComponent,
     HeringinfoComponent,
     BreathComponent,
-    BreathInfoComponent
+    BreathInfoComponent,
+    FeetComponent,
+    FeetInfoComponent
   ],
   imports: [
     BrowserModule,
