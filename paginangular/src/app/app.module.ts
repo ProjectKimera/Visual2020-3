@@ -15,6 +15,11 @@ import { BreathComponent } from './breath/breath.component';
 import { BreathInfoComponent } from './breath-info/breath-info.component';
 import { FeetComponent } from './feet/feet.component';
 import { FeetInfoComponent } from './feet-info/feet-info.component';
+import { OscComponent } from './osc/osc.component';
+import { OscInfoComponent } from './osc-info/osc-info.component';
+import { EspiralComponent } from './espiral/espiral.component';
+import { EspiralInfoComponent } from './espiral-info/espiral-info.component';
+import { InformeT2Component } from './informe-t2/informe-t2.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +35,12 @@ import { FeetInfoComponent } from './feet-info/feet-info.component';
     BreathComponent,
     BreathInfoComponent,
     FeetComponent,
-    FeetInfoComponent
+    FeetInfoComponent,
+    OscComponent,
+    OscInfoComponent,
+    EspiralComponent,
+    EspiralInfoComponent,
+    InformeT2Component
   ],
   imports: [
     BrowserModule,
