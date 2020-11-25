@@ -1,9 +1,12 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { AboutComponent } from './about/about.component';
+import { AmbientInfoComponent } from './ambient-info/ambient-info.component';
+import { AmbientComponent } from './ambient/ambient.component';
 import { BreathInfoComponent } from './breath-info/breath-info.component';
 import { EspiralInfoComponent } from './espiral-info/espiral-info.component';
 import { FeetInfoComponent } from './feet-info/feet-info.component';
+import { FogComponent } from './fog/fog.component';
 import { HeringinfoComponent } from './heringinfo/heringinfo.component';
 import { InformeT2Component } from './informe-t2/informe-t2.component';
 import { KanisaInfoComponent } from './kanisa-info/kanisa-info.component';
@@ -17,12 +20,14 @@ const routes: Routes = [
   //Taller2
   {path: 'repo', component: RepoComponent},
   {path: 'kaniza', component: KanisaInfoComponent},
-  {path: 'hering', component: HeringinfoComponent},  
+  {path: 'hering', component: HeringinfoComponent},
   {path: 'breath', component: BreathInfoComponent},
   {path: 'feet', component: FeetInfoComponent},
   {path: 'osc', component: OscInfoComponent},
   {path: 'espiral', component: EspiralInfoComponent},
-  {path: 'it2', component: InformeT2Component}
+  {path: 'it2', component: InformeT2Component},
+  {path: 'fog', component: FogComponent},
+  {path: 'ambient', component: AmbientInfoComponent}
 ];
 
 @NgModule({

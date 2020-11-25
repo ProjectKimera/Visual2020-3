@@ -1,6 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+//servicios
+import {CargarScriptsService} from "./cargar-scripts.service";
+
+
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
@@ -20,6 +24,9 @@ import { OscInfoComponent } from './osc-info/osc-info.component';
 import { EspiralComponent } from './espiral/espiral.component';
 import { EspiralInfoComponent } from './espiral-info/espiral-info.component';
 import { InformeT2Component } from './informe-t2/informe-t2.component';
+import { FogComponent } from './fog/fog.component';
+import { AmbientComponent } from './ambient/ambient.component';
+import { AmbientInfoComponent } from './ambient-info/ambient-info.component';
 
 @NgModule({
   declarations: [
@@ -40,13 +47,18 @@ import { InformeT2Component } from './informe-t2/informe-t2.component';
     OscInfoComponent,
     EspiralComponent,
     EspiralInfoComponent,
-    InformeT2Component
+    InformeT2Component,
+    FogComponent,
+    AmbientComponent,
+    AmbientInfoComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [
+    CargarScriptsService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
