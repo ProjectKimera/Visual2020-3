@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { AboutComponent } from './about/about.component';
 import { AmbientInfoComponent } from './ambient-info/ambient-info.component';
 import { AmbientComponent } from './ambient/ambient.component';
+import { AttenuationInfoComponent } from './attenuation-info/attenuation-info.component';
 import { BreathInfoComponent } from './breath-info/breath-info.component';
 import { EspiralInfoComponent } from './espiral-info/espiral-info.component';
 import { FeetInfoComponent } from './feet-info/feet-info.component';
@@ -27,7 +28,8 @@ const routes: Routes = [
   {path: 'espiral', component: EspiralInfoComponent},
   {path: 'it2', component: InformeT2Component},
   {path: 'fog', component: FogComponent},
-  {path: 'ambient', component: AmbientInfoComponent}
+  {path: 'ambient', component: AmbientInfoComponent},
+  {path: 'attenuation', component: AttenuationInfoComponent}
 ];
 
 @NgModule({

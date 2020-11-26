@@ -27,6 +27,8 @@ import { InformeT2Component } from './informe-t2/informe-t2.component';
 import { FogComponent } from './fog/fog.component';
 import { AmbientComponent } from './ambient/ambient.component';
 import { AmbientInfoComponent } from './ambient-info/ambient-info.component';
+import { AttenuationInfoComponent } from './attenuation-info/attenuation-info.component';
+import { AttenuationComponent } from './attenuation/attenuation.component';
 
 @NgModule({
   declarations: [
@@ -50,7 +52,9 @@ import { AmbientInfoComponent } from './ambient-info/ambient-info.component';
     InformeT2Component,
     FogComponent,
     AmbientComponent,
-    AmbientInfoComponent
+    AmbientInfoComponent,
+    AttenuationInfoComponent,
+    AttenuationComponent
   ],
   imports: [
     BrowserModule,
