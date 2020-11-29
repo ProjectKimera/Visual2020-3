@@ -1,0 +1,57 @@
+<div class="container">
+  <div class="row mt-2">
+      <div class="col-sm">
+        <div *ngIf="escala=='luma'">
+          <app-luma [imagen]="imagen"></app-luma>
+        </div>
+        <div *ngIf="escala=='prom'">
+          <app-prom [imagen]="imagen"></app-prom>
+        </div>
+        <div *ngIf="escala=='edge'">
+          <app-edge [imagen]="imagen" [kernel]="edge"></app-edge>
+        </div>
+        <div *ngIf="escala=='gauss'">
+          <app-edge [imagen]="imagen" [kernel]="gauss"></app-edge>
+        </div>
+        <div *ngIf="escala=='shar'">
+          <app-edge [imagen]="imagen" [kernel]="shar"></app-edge>
+        </div>
+        <div *ngIf="escala=='emboss'">
+          <app-edge [imagen]="imagen" [kernel]="emboss"></app-edge>
+        </div>
+        <div *ngIf="escala=='sobel'">
+          <app-edge [imagen]="imagen" [kernel]="sobel"></app-edge>
+        </div>
+        <div *ngIf="escala=='histo'">
+          <app-edgevideo [imagen]="imagen"></app-edgevideo>
+        </div>
+      </div>
+      <div class="card col-sm m-2" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Escala de Grises</h5>
+            <p class="card-text text-justify font-weight-bold">Instrucciones:</p>
+            <p class="card-text text-justify">Puede subir cualquier imagen y elegir el tipo de transformación (puede demorar un poco el procesamiento)</p>
+            <div class="input-group my-2 sm">
+              <div class="custom-file">
+                <input (change)="subirImagen($event)" type="file" class="custom-file-input" id="inputGroupFile04" aria-describedby="inputGroupFileAddon04">
+                <label class="custom-file-label" for="inputGroupFile04">{{imagen? imagen.name:'Selecciona imagen'}}</label>
+              </div>
+            </div>
+            <div class="form-group my-2 sm-9" *ngIf="imagen">
+              <select [(ngModel)]="escala" id="inputState" class="form-control" placeholder="Selecciona">
+                <option value="" selected>Selecciona...</option>
+                <option value="luma" selected>Escala de grises Luma</option>
+                <option value="prom">Escala de grises Promedio</option>
+                <option value="edge">Edge Detection</option>
+                <option value="gauss">Gauus Blur</option>
+                <option value="shar">Sharpen</option>
+                <option value="emboss">Emboss</option>
+                <option value="sobel">Sobel</option>
+                <option value="histo">Histograma</option>
+              </select>
+            </div>
+            <img [src]="imagen" alt="" class="img-fluid">
+          </div>
+      </div>
+  </div>
+</div>

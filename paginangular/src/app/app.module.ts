@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 
 //servicios
 import {CargarScriptsService} from "./cargar-scripts.service";
@@ -29,6 +30,13 @@ import { AmbientComponent } from './ambient/ambient.component';
 import { AmbientInfoComponent } from './ambient-info/ambient-info.component';
 import { AttenuationInfoComponent } from './attenuation-info/attenuation-info.component';
 import { AttenuationComponent } from './attenuation/attenuation.component';
+import { EscalaGInfoComponent } from './escala-ginfo/escala-ginfo.component';
+import { LumaComponent } from './luma/luma.component';
+import { PromComponent } from './prom/prom.component';
+import { EscalaGrisesVideoInfoComponent } from './escala-grises-video-info/escala-grises-video-info.component';
+import { EscvComponent } from './escv/escv.component';
+import { EdgeComponent } from './edge/edge.component';
+import { EdgevideoComponent } from './edgevideo/edgevideo.component';
 
 @NgModule({
   declarations: [
@@ -54,11 +62,19 @@ import { AttenuationComponent } from './attenuation/attenuation.component';
     AmbientComponent,
     AmbientInfoComponent,
     AttenuationInfoComponent,
-    AttenuationComponent
+    AttenuationComponent,
+    EscalaGInfoComponent,
+    LumaComponent,
+    PromComponent,
+    EscalaGrisesVideoInfoComponent,
+    EscvComponent,
+    EdgeComponent,
+    EdgevideoComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [
     CargarScriptsService

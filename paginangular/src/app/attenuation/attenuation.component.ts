@@ -4,9 +4,10 @@ import * as p5 from 'p5';
 @Component({
   selector: 'app-attenuation',
   templateUrl: './attenuation.component.html',
-  styleUrls: ['./attenuation.component.css']
+  styleUrls: ['./attenuation.component.css'],
 })
 export class AttenuationComponent implements OnInit {
+
 
   constructor(
     private el:ElementRef,
@@ -14,6 +15,7 @@ export class AttenuationComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
+
     new p5(p => {
 
 
@@ -23,7 +25,7 @@ export class AttenuationComponent implements OnInit {
       let lightShader;
 
       p.preload = () =>{
-        lightShader = p.loadShader( './../../assets/attData/AttenuationVert1.vert', './../../assets/attData/AttenuationFrag1.frag',);
+        lightShader = p.loadShader( 'assets/attData/AttenuationVert1.vert', 'assets/attData/AttenuationFrag1.frag',);
       }
 
       p.setup = () => {

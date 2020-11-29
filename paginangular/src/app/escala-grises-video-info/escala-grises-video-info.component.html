@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="row mt-2">
+      <div class="col-sm">
+        <div *ngIf="escala=='luma'">
+          <app-escv></app-escv>
+        </div>
+        <div *ngIf="escala=='edge'">
+          <video src="assets\convData\frame.mp4" class="img-fluid" autoplay></video>
+          <video src="assets\convData\frameConv.mp4" class="img-fluid" autoplay></video>
+        </div>
+      </div>
+      <div class="card col-sm m-2" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Escala de Grises en video</h5>
+            <p class="card-text text-justify font-weight-bold">Instrucciones:</p>
+            <p class="card-text text-justify">Permitir al navegador capturar imagen con la webcam</p>
+            <div class="form-group my-2 sm-9">
+              <select [(ngModel)]="escala" id="inputState" class="form-control" placeholder="Selecciona">
+                <option value="" selected>Selecciona...</option>
+                <option value="luma" selected>Escala de grises</option>
+                <option value="edge">Frame</option>
+              </select>
+            </div>
+
+          </div>
+      </div>
+  </div>
+</div>

@@ -5,6 +5,8 @@ import { AmbientInfoComponent } from './ambient-info/ambient-info.component';
 import { AmbientComponent } from './ambient/ambient.component';
 import { AttenuationInfoComponent } from './attenuation-info/attenuation-info.component';
 import { BreathInfoComponent } from './breath-info/breath-info.component';
+import { EscalaGInfoComponent } from './escala-ginfo/escala-ginfo.component';
+import { EscalaGrisesVideoInfoComponent } from './escala-grises-video-info/escala-grises-video-info.component';
 import { EspiralInfoComponent } from './espiral-info/espiral-info.component';
 import { FeetInfoComponent } from './feet-info/feet-info.component';
 import { FogComponent } from './fog/fog.component';
@@ -29,7 +31,9 @@ const routes: Routes = [
   {path: 'it2', component: InformeT2Component},
   {path: 'fog', component: FogComponent},
   {path: 'ambient', component: AmbientInfoComponent},
-  {path: 'attenuation', component: AttenuationInfoComponent}
+  {path: 'attenuation', component: AttenuationInfoComponent},
+  {path: 'escg', component: EscalaGInfoComponent},
+  {path: 'escgv', component: EscalaGrisesVideoInfoComponent}
 ];
 
 @NgModule({
