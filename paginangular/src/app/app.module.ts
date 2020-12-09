@@ -37,6 +37,7 @@ import { EscalaGrisesVideoInfoComponent } from './escala-grises-video-info/escal
 import { EscvComponent } from './escv/escv.component';
 import { EdgeComponent } from './edge/edge.component';
 import { EdgevideoComponent } from './edgevideo/edgevideo.component';
+import { WindMapComponent } from './wind-map/wind-map.component';
 
 @NgModule({
   declarations: [
@@ -69,7 +70,8 @@ import { EdgevideoComponent } from './edgevideo/edgevideo.component';
     EscalaGrisesVideoInfoComponent,
     EscvComponent,
     EdgeComponent,
-    EdgevideoComponent
+    EdgevideoComponent,
+    WindMapComponent
   ],
   imports: [
     BrowserModule,

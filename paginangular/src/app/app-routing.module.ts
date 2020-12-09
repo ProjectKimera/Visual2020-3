@@ -16,6 +16,7 @@ import { KanisaInfoComponent } from './kanisa-info/kanisa-info.component';
 import { KanizsaComponent } from './kanizsa/kanizsa.component';
 import { OscInfoComponent } from './osc-info/osc-info.component';
 import { RepoComponent } from './repo/repo.component';
+import { WindMapComponent } from './wind-map/wind-map.component';
 
 const routes: Routes = [
   {path: '', redirectTo: '/repo', pathMatch: 'full'},
@@ -33,7 +34,8 @@ const routes: Routes = [
   {path: 'ambient', component: AmbientInfoComponent},
   {path: 'attenuation', component: AttenuationInfoComponent},
   {path: 'escg', component: EscalaGInfoComponent},
-  {path: 'escgv', component: EscalaGrisesVideoInfoComponent}
+  {path: 'escgv', component: EscalaGrisesVideoInfoComponent},
+  {path: 'wind', component: WindMapComponent}
 ];
 
 @NgModule({
