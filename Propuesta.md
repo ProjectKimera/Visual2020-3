@@ -11,14 +11,19 @@ Para la realización de nuestro proyecto usamos un data set de datos abiertos so
 La fuente de nuestros datos es el servicio NOMAD: [https://nomads.ncep.noaa.gov/](https://nomads.ncep.noaa.gov/), la cual contiene una gran cantidad de datos y filtros que pueden ser apropiadamente usados mediante un correcto uso de algoritmos y procesos de imagen.
 
 ![NOMADS](https://kuwago-files.s3.amazonaws.com/NOMAD.png)
+
 Para la descarga de datos se ejecuta un enlace de datos que nos proporciona la página mediante el GRIB filter, este link se puede modificar dependiendo de las configuraciones que se necesiten en el momento, un ejemplo de este es el siguiente:
 
 [https://nomads.ncep.noaa.gov/cgi-bin/filter_gfs_1p00.pl?file=gfs.t06z.pgrb2.1p00.f000&lev_10_m_above_ground=on&leftlon=0&rightlon=360&toplat=90&bottomlat=-90&dir=%2Fgfs.20201209%2F06](https://nomads.ncep.noaa.gov/cgi-bin/filter_gfs_1p00.pl?file=gfs.t06z.pgrb2.1p00.f000&lev_10_m_above_ground=on&leftlon=0&rightlon=360&toplat=90&bottomlat=-90&dir=%2Fgfs.20201209%2F06)
 
 ![GRIB Filter](https://kuwago-files.s3.amazonaws.com/GRIB.png)
+
 Este enlace arroja datos en formato f000 los cuales son formateados en un JSON
 
+
 ![JSON](https://kuwago-files.s3.amazonaws.com/JSON.png)
+
 Finalmente, este archivo JSON es procesado mediante un programa JavaScript para convertirlo en una imagen:
+
 ![enter image description here](https://kuwago-files.s3.amazonaws.com/wind.png)
 
