@@ -1,0 +1,394 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-12-09T21:44:33.048Z,52.4466,106.6945,10,5.3,mb,,46,2.033,0.7,us,us7000cpkf,2020-12-09T22:25:01.587Z,"44 km SSE of Yelantsy, Russia",earthquake,8.1,1.9,0.061,91,reviewed,us,us
+2020-12-09T15:47:39.380Z,17.9683,-66.9906,9,2.63,md,11,194,0.0536,0.08,pr,pr2020344010,2020-12-09T16:01:18.715Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.39,0.66,0.23,4,reviewed,pr,pr
+2020-12-09T15:24:08.548Z,52.6997,-168.2432,25.6,3.5,ml,,,,0.56,ak,ak020ft5y1x6,2020-12-09T21:28:49.360Z,"49 km ESE of Nikolski, Alaska",earthquake,,4.1,,,reviewed,ak,ak
+2020-12-09T15:10:06.350Z,17.8623,-66.9031,15,2.73,md,8,245,0.1772,0.1,pr,pr2020344009,2020-12-09T15:31:54.965Z,"12 km S of Guánica, Puerto Rico",earthquake,0.68,0.93,0.21,3,reviewed,pr,pr
+2020-12-09T14:59:20.106Z,37.7065,-97.2478,5,2.5,mb_lg,,127,0.655,0.35,us,us7000cpg2,2020-12-09T20:57:51.913Z,"2 km NE of Eastborough, Kansas",earthquake,2.2,1.9,0.193,8,reviewed,us,us
+2020-12-09T14:32:24.820Z,18.0193,-66.2308,15,2.54,md,9,156,0.1208,0.26,pr,pr2020344008,2020-12-09T14:58:43.560Z,"3 km ENE of Coco, Puerto Rico",earthquake,0.88,1.37,0.2,6,reviewed,pr,pr
+2020-12-09T13:27:57.020Z,17.7728,-66.9213,11,2.66,md,8,275,0.2319,0.19,pr,pr2020344007,2020-12-09T13:55:10.445Z,"22 km S of Guánica, Puerto Rico",earthquake,0.99,1.37,0.02,4,reviewed,pr,pr
+2020-12-09T13:08:50.171Z,55.9307,160.1337,226.71,4.3,mb,,104,3.039,0.5,us,us7000cpfn,2020-12-09T13:31:20.040Z,"20 km SE of Kozyrëvsk, Russia",earthquake,9.5,10.5,0.044,144,reviewed,us,us
+2020-12-09T12:31:16.046Z,45.0951,-67.1595,7.72,3,ml,,110,0.226,0.2,us,us7000cpfi,2020-12-09T21:23:01.924Z,"4 km WNW of Robbinston, Maine",earthquake,1.4,7.9,0.064,32,reviewed,us,us
+2020-12-09T11:40:48.091Z,61.3998,-150.1013,24.4,2.7,ml,,,,0.77,ak,ak020ft3ntsx,2020-12-09T21:20:06.624Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2020-12-09T10:55:51.770Z,18.0073,-66.7648,13,2.71,md,7,194,0.1975,0.27,pr,pr2020344006,2020-12-09T11:19:31.330Z,"1 km SSE of Magas Arriba, Puerto Rico",earthquake,1.32,0.88,0.15,3,reviewed,pr,pr
+2020-12-09T10:50:37.510Z,18.9575,-66.309,24,2.96,md,7,292,0.7557,0.1,pr,pr2020344005,2020-12-09T11:16:35.434Z,"54 km N of Brenas, Puerto Rico",earthquake,0.87,9.03,0.1,3,reviewed,pr,pr
+2020-12-09T10:46:46.961Z,-24.1928,-68.3107,147.29,4.4,mb,,58,1.241,0.81,us,us7000cpf5,2020-12-09T11:30:51.040Z,"142 km S of San Pedro de Atacama, Chile",earthquake,4.2,7.8,0.149,13,reviewed,us,us
+2020-12-09T10:22:19.600Z,31.4685,-115.698,17.42,2.89,ml,10,115,0.1064,0.18,ci,ci39489127,2020-12-09T17:30:26.171Z,"87km ESE of Maneadero, B.C., MX",earthquake,0.97,1.11,0.124,49,reviewed,ci,ci
+2020-12-09T10:20:52.408Z,-21.149,-68.8475,117.81,4.6,mb,,46,0.606,0.91,us,us7000cpez,2020-12-09T16:45:19.666Z,"145 km N of Calama, Chile",earthquake,5.6,5.4,0.129,18,reviewed,us,us
+2020-12-09T10:14:47.150Z,39.0263329,-123.0643311,4.87,2.74,md,28,70,0.1317,0.11,nc,nc73495525,2020-12-09T19:13:51.223Z,"13km W of Lakeport, CA",earthquake,0.31,1.32,0.18,27,automatic,nc,nc
+2020-12-09T07:40:25.429Z,41.5226,142.1379,61.25,4.3,mb,,131,0.907,0.65,us,us7000cpel,2020-12-09T09:05:18.040Z,"81 km ENE of Mutsu, Japan",earthquake,6.9,8,0.09,37,reviewed,us,us
+2020-12-09T07:03:59.695Z,24.8789,-108.8773,10,4.4,mb,,159,3.545,0.74,us,us7000cpec,2020-12-09T08:10:37.040Z,"67 km SSW of El Progreso, Mexico",earthquake,8.2,1.9,0.054,100,reviewed,us,us
+2020-12-09T06:47:07.697Z,53.1943,170.5646,24.83,5.3,mww,,75,2.19,0.76,us,us7000cpea,2020-12-09T20:44:03.072Z,"180 km WNW of Attu Station, Alaska",earthquake,8.7,5,0.098,10,reviewed,us,us
+2020-12-09T06:36:22.973Z,-2.7458,134.8539,26.92,4.3,mb,,117,2.607,0.6,us,us7000cpe9,2020-12-09T09:46:59.040Z,"98 km NW of Nabire, Indonesia",earthquake,10.2,7.6,0.114,24,reviewed,us,us
+2020-12-09T06:34:57.679Z,-62.35,-58.0929,10,4.9,mb,,92,3.607,0.57,us,us7000cpe7,2020-12-09T06:56:19.040Z,"South Shetland Islands",earthquake,8.5,1.9,0.097,34,reviewed,us,us
+2020-12-09T05:59:26.932Z,45.5534,-99.7259,5,3.2,mb_lg,,35,1.223,0.55,us,us7000cpdp,2020-12-09T19:10:52.085Z,"12 km NNW of Bowdle, South Dakota",earthquake,2.9,2,0.079,43,reviewed,us,us
+2020-12-09T05:32:31.320Z,50.3282,-175.6147,24.5,3.7,ml,,,,0.4,ak,ak020ft01hej,2020-12-09T20:31:51.639Z,"186 km SSE of Adak, Alaska",earthquake,,6.7,,,reviewed,ak,ak
+2020-12-09T04:56:42.018Z,12.0814,-88.0946,10,4.8,mb,,157,1.214,0.78,us,us7000cpci,2020-12-09T05:16:54.040Z,"101 km SW of Jiquilillo, Nicaragua",earthquake,7.2,1.9,0.037,223,reviewed,us,us
+2020-12-09T04:15:41.927Z,-32.0378,-71.6648,35,4.4,mb,,108,0.586,0.41,us,us7000cpcg,2020-12-09T04:41:35.650Z,"61 km NW of La Ligua, Chile",earthquake,3.2,2,0.179,9,reviewed,us,us
+2020-12-09T03:06:48.360Z,19.1951,-67.7196,7,3.07,md,18,257,0.8456,0.48,pr,pr2020344002,2020-12-09T11:09:15.519Z,"99 km NE of Punta Cana, Dominican Republic",earthquake,4.33,3.73,0.02,5,reviewed,pr,pr
+2020-12-09T03:01:22.590Z,19.1415,-67.7608,13,3.24,md,11,254,0.8077,0.49,pr,pr2020344001,2020-12-09T03:34:32.903Z,"91 km NE of Punta Cana, Dominican Republic",earthquake,4.49,5.91,0.14,9,reviewed,pr,pr
+2020-12-09T01:53:38.196Z,0.3719,126.2338,50.74,4.4,mb,,52,1.2,0.79,us,us7000cpbf,2020-12-09T02:13:48.040Z,"136 km WSW of Ternate, Indonesia",earthquake,7.5,7.8,0.118,21,reviewed,us,us
+2020-12-09T01:37:05.391Z,-2.5914,-79.2911,75.22,4.7,mb,,110,0.129,0.86,us,us7000cpbd,2020-12-09T20:51:04.537Z,"19 km SSE of La Troncal, Ecuador",earthquake,10,4.5,0.052,110,reviewed,us,us
+2020-12-09T01:16:30.570Z,19.2558,-67.7145,28,3.39,md,20,245,0.9026,0.51,pr,pr2020344000,2020-12-09T09:18:54.120Z,"104 km NE of Punta Cana, Dominican Republic",earthquake,2.96,32.68,0.17,13,reviewed,pr,pr
+2020-12-08T23:45:54.310Z,19.065,-67.7216,3,3.64,md,18,233,0.7224,0.44,pr,pr2020343023,2020-12-09T07:48:34.257Z,"89 km NE of Punta Cana, Dominican Republic",earthquake,2.91,2.11,0.09,13,reviewed,pr,pr
+2020-12-08T23:40:34.860Z,17.8905,-66.9091,10,2.84,md,19,218,0.1565,0.12,pr,pr2020343022,2020-12-09T00:08:57.281Z,"8 km S of Guánica, Puerto Rico",earthquake,0.49,0.55,0.19,16,reviewed,pr,pr
+2020-12-08T23:33:39.370Z,35.7236671,-121.0368347,1.89,2.53,md,31,149,0.1617,0.12,nc,nc73495370,2020-12-09T02:41:39.773Z,"14km W of Lake Nacimiento, CA",earthquake,0.42,2.26,0.15,26,automatic,nc,nc
+2020-12-08T23:33:30.914Z,-28.276,-176.0808,10,5.3,mb,,71,1.888,0.91,us,us7000cpal,2020-12-08T23:51:51.040Z,"Kermadec Islands region",earthquake,10.2,1.9,0.059,97,reviewed,us,us
+2020-12-08T23:32:40.780Z,44.7748333,-111.0175,7.11,2.64,ml,25,106,0.01748,0.19,uu,uu60421277,2020-12-09T05:29:21.542Z,"13 km E of Hebgen Lake Estates, Montana",earthquake,0.4,0.64,0.229,6,reviewed,uu,uu
+2020-12-08T22:53:42.510Z,38.272,-108.923,0.43,3.65,ml,18,84,0.04787,0.11,uu,uu60421272,2020-12-09T01:57:46.016Z,"28 km E of La Sal, Utah",earthquake,0.27,0.59,0.186,14,reviewed,uu,uu
+2020-12-08T22:39:03.590Z,13.0177,-90.2655,47.75,4.4,mb,,182,1.63,1.06,us,us7000cpab,2020-12-08T23:16:07.040Z,"79 km SW of Acajutla, El Salvador",earthquake,8.1,8.3,0.056,91,reviewed,us,us
+2020-12-08T22:37:42.240Z,36.432,-117.9973333,3.32,2.63,ml,25,63,0.06725,0.22,ci,ci39488695,2020-12-09T07:49:30.299Z,"17km N of Olancha, CA",earthquake,0.4,1.35,0.185,26,automatic,ci,ci
+2020-12-08T22:33:19.286Z,62.3514,-151.4439,91.3,3.3,ml,,,,0.59,ak,ak020frmmoq3,2020-12-08T22:50:05.040Z,"38 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-12-08T22:31:13.400Z,36.4293333,-117.996,3.32,2.75,ml,25,63,0.06868,0.26,ci,ci39488679,2020-12-08T22:50:45.829Z,"16km N of Olancha, CA",earthquake,0.46,1.56,0.164,26,automatic,ci,ci
+2020-12-08T21:48:49.786Z,59.0016,-154.6088,134.8,2.8,ml,,,,0.79,ak,ak020frm4jci,2020-12-08T22:06:56.040Z,"49 km S of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-12-08T19:50:55.780Z,40.2798347,-124.4964981,19.08,2.91,md,16,251,0.1779,0.1,nc,nc73495325,2020-12-08T22:51:08.834Z,"19km WSW of Petrolia, CA",earthquake,1.36,0.47,0.11,14,automatic,nc,nc
+2020-12-08T19:42:07.600Z,17.9383,-66.9346,12,2.6,md,16,200,0.114,0.1,pr,pr2020343018,2020-12-08T21:43:56.580Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.59,0.43,0.16,12,reviewed,pr,pr
+2020-12-08T19:41:28.395Z,60.0317,-150.2724,43.2,2.5,ml,,,,0.72,ak,ak020frkw4dy,2020-12-08T21:29:43.040Z,"42 km ENE of Fox River, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2020-12-08T18:55:04.520Z,19.3516666666667,-155.274,27.73,3.25,md,46,64,,0.1,hv,hv72270682,2020-12-09T06:51:35.816Z,"10 km SSW of Volcano, Hawaii",earthquake,0.43,0.42,0.105299416816018,24,reviewed,hv,hv
+2020-12-08T18:38:37.413Z,38.1688,-118.0845,3.5,2.5,ml,20,44.08,0.027,0.1713,nn,nn00790725,2020-12-09T02:30:04.681Z,"24 km S of Mina, Nevada",earthquake,,1.2,0.11,14,reviewed,nn,nn
+2020-12-08T18:12:33.930Z,17.9706,-66.9285,10,2.57,md,5,198,0.1157,0.07,pr,pr2020343017,2020-12-08T21:44:10.492Z,"2 km W of Guánica, Puerto Rico",earthquake,0.67,1.79,0.11,2,reviewed,pr,pr
+2020-12-08T17:56:42.428Z,16.0787,-95.2062,25.55,5.4,mb,,125,2.956,1.16,us,us7000cp6z,2020-12-09T03:21:42.757Z,"10 km S of Salina Cruz, Mexico",earthquake,6.8,4.7,0.026,514,reviewed,us,us
+2020-12-08T17:55:06.759Z,-6.3462,143.0006,46.27,4.8,mb,,31,5.119,1.02,us,us7000cp70,2020-12-09T00:20:22.242Z,"55 km S of Tari, Papua New Guinea",earthquake,4.4,6.8,0.073,61,reviewed,us,us
+2020-12-08T17:48:21.835Z,38.157,-118.0854,7.1,3.1,ml,22,42.61,0.026,0.1782,nn,nn00790706,2020-12-09T02:29:59.814Z,"25 km S of Mina, Nevada",earthquake,,1.1,0.25,15,reviewed,nn,nn
+2020-12-08T17:46:22.300Z,17.8256,-66.9303,10,2.56,md,5,264,0.1835,0.25,pr,pr2020343016,2020-12-08T21:44:20.924Z,"16 km S of Guánica, Puerto Rico",earthquake,1.66,1.19,0.1,4,reviewed,pr,pr
+2020-12-08T16:54:03.780Z,37.718,-97.2422,5,3,mb_lg,,98,0.654,0.32,us,us7000cp6l,2020-12-09T22:10:50.374Z,"3 km NNE of Eastborough, Kansas",earthquake,1.6,2,0.058,78,reviewed,us,us
+2020-12-08T16:43:36.537Z,-28.1586,-71.5565,17.44,4.1,mb,,176,0.428,0.38,us,us7000cp6g,2020-12-08T17:46:48.268Z,"90 km WNW of Vallenar, Chile",earthquake,2.4,8.6,0.37,2,reviewed,us,us
+2020-12-08T16:42:48.260Z,40.3651657,-124.620163,20.65,2.72,md,21,234,0.2424,0.16,nc,nc73495245,2020-12-08T18:47:05.447Z,"29km W of Petrolia, CA",earthquake,2.11,0.62,0.09,8,automatic,nc,nc
+2020-12-08T14:53:14.901Z,8.6372,-82.9941,22.38,4.7,mb,,140,0.34,0.64,us,us7000cp5q,2020-12-08T18:08:21.040Z,"5 km W of Corredor, Costa Rica",earthquake,6.1,4.8,0.075,53,reviewed,us,us
+2020-12-08T14:36:13.350Z,17.9811,-67.051,9,3.03,md,12,145,0.0135,0.09,pr,pr2020343015,2020-12-08T14:57:13.677Z,"0 km NW of La Parguera, Puerto Rico",earthquake,0.46,0.36,0.16,5,reviewed,pr,pr
+2020-12-08T14:34:53.166Z,44.3627,-115.1315,9.82,2.8,ml,,61,0.192,0.49,us,us7000cp5j,2020-12-08T15:32:59.040Z,"22 km NW of Stanley, Idaho",earthquake,3.3,9.1,0.048,58,reviewed,us,us
+2020-12-08T14:20:51.226Z,8.6117,-82.9516,18.79,4.7,mb,,143,0.317,0.87,us,us7000cp5g,2020-12-08T15:43:09.078Z,"3 km S of Corredor, Costa Rica",earthquake,4.9,4.8,0.071,63,reviewed,us,us
+2020-12-08T13:20:11.827Z,44.3568,-115.059,9.22,2.7,ml,,59,0.161,0.46,us,us7000cp59,2020-12-08T17:32:21.040Z,"18 km NNW of Stanley, Idaho",earthquake,3.5,6.1,0.048,57,reviewed,us,us
+2020-12-08T13:00:07.000Z,35.5040016,-120.8410034,5.29,2.65,md,25,147,,0.06,nc,nc73495190,2020-12-08T21:42:56.699Z,"8km NE of Cayucos, CA",earthquake,0.4,0.76,0.23,31,automatic,nc,nc
+2020-12-08T12:50:04.833Z,36.9396,141.9149,47.78,4.3,mb,,154,1.557,0.65,us,us7000cp57,2020-12-08T13:40:05.040Z,"92 km E of Iwaki, Japan",earthquake,10.1,9.6,0.142,14,reviewed,us,us
+2020-12-08T10:47:53.810Z,17.8623,-66.8828,11,2.53,md,6,251,0.1937,0.08,pr,pr2020343013,2020-12-08T10:58:52.254Z,"12 km SSE of Guánica, Puerto Rico",earthquake,1.43,1.05,0.08,4,reviewed,pr,pr
+2020-12-08T09:45:33.774Z,61.4994,-152.4546,124.8,2.7,ml,,,,0.54,ak,ak020freynnj,2020-12-08T23:37:02.126Z,"78 km SW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-12-08T09:24:09.993Z,31.6733,-104.4303,10.4,2.6,ml,,102,0.06,0.51,us,us7000cp4b,2020-12-08T10:44:18.040Z,"55 km S of Whites City, New Mexico",earthquake,0.9,4.5,0.115,44,reviewed,us,us
+2020-12-08T08:55:32.210Z,17.835,-66.941,12,2.5,md,12,262,0.1695,0.11,pr,pr2020343012,2020-12-08T09:31:07.117Z,"15 km SSW of Guánica, Puerto Rico",earthquake,0.59,0.47,0.16,5,reviewed,pr,pr
+2020-12-08T08:44:17.720Z,17.9519,-66.8376,13,2.5,md,10,196,0.2074,0.09,pr,pr2020343011,2020-12-08T08:58:44.700Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.65,0.37,0.07,4,reviewed,pr,pr
+2020-12-08T08:39:20.012Z,-22.268,-67.5661,184.94,4.4,mb,,72,0.885,0.66,us,us7000cp41,2020-12-08T09:56:23.040Z,"96 km NE of San Pedro de Atacama, Chile",earthquake,8.5,6.5,0.138,15,reviewed,us,us
+2020-12-08T08:03:25.437Z,54.689,-35.4193,10,4.8,mb,,113,8.382,0.57,us,us7000cp3z,2020-12-08T08:35:56.040Z,"Reykjanes Ridge",earthquake,10.3,1.9,0.049,130,reviewed,us,us
+2020-12-08T07:44:09.830Z,18.9488,-65.151,32,3.55,md,12,331,1.0666,0.28,pr,pr2020343010,2020-12-08T08:06:00.710Z,"71 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.97,17.9,0.15,10,reviewed,pr,pr
+2020-12-08T07:28:44.713Z,28.6697,53.8187,10,4.5,mb,,59,4.278,0.67,us,us7000cp3l,2020-12-08T07:48:56.040Z,"34 km SSE of Fasā, Iran",earthquake,3.5,1.9,0.069,61,reviewed,us,us
+2020-12-08T07:24:43.720Z,54.9059,-160.9002,122.6,2.8,ml,,,,1.92,ak,ak020frdnc15,2020-12-08T20:33:47.387Z,"54 km SSW of Sand Point, Alaska",earthquake,,2.1,,,reviewed,ak,ak
+2020-12-08T07:15:15.059Z,56.1563,-149.6028,12.8,2.9,ml,,,,0.86,ak,ak020frdlb5k,2020-12-08T20:30:06.702Z,"229 km SE of Chiniak, Alaska",earthquake,,1101,,,reviewed,ak,ak
+2020-12-08T07:07:20.619Z,-32.0608,-71.5345,48.36,5,mww,,62,0.963,0.9,us,us7000cp39,2020-12-09T01:15:48.492Z,"51 km NNW of La Ligua, Chile",earthquake,4.4,3.3,0.089,12,reviewed,us,us
+2020-12-08T05:14:35.273Z,22.1912,94.38,91.03,5.1,mb,,53,0.85,1.08,us,us7000cp2v,2020-12-08T05:30:36.040Z,"78 km W of Monywa, Myanmar",earthquake,6.2,6.2,0.053,115,reviewed,us,us
+2020-12-08T05:00:34.210Z,17.938,-66.9585,13,2.7,md,15,211,0.0913,0.11,pr,pr2020343006,2020-12-08T05:14:56.390Z,"Puerto Rico region",earthquake,0.76,0.46,0.29,10,reviewed,pr,pr
+2020-12-08T03:38:41.730Z,35.5048332,-120.8461685,5.3,2.73,md,29,149,,0.06,nc,nc73495050,2020-12-08T06:38:05.960Z,"8km NNE of Cayucos, CA",earthquake,0.35,1.1,0.17,29,automatic,nc,nc
+2020-12-08T03:33:31.486Z,9.8916,-84.7024,35,4.5,mb,,190,0.466,0.92,us,us7000cp27,2020-12-09T04:39:25.113Z,"12 km SSW of Esparza, Costa Rica",earthquake,2.6,2,0.053,103,reviewed,us,us
+2020-12-08T03:22:00.114Z,4.7457,-77.4183,35,5,mww,,31,2.366,0.81,us,us7000cp26,2020-12-09T03:59:32.545Z,"23 km SSW of Pizarro, Colombia",earthquake,4.8,1.9,0.098,10,reviewed,us,us
+2020-12-08T03:21:58.260Z,18.54,-68.921,116,3.08,md,8,108,0.5402,0.24,pr,pr2020343005,2020-12-08T03:48:59.398Z,"Mona Passage",earthquake,1.56,1.97,0.68,6,reviewed,pr,pr
+2020-12-08T03:10:03.961Z,60.5716,-147.702,15.3,2.5,ml,,,,0.79,ak,ak020frb6hnf,2020-12-09T03:39:27.040Z,"58 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-12-08T02:55:18.636Z,-18.0923,-69.9598,124.16,4.1,mb,,79,0.456,0.61,us,us7000cp15,2020-12-09T03:33:59.040Z,"29 km SE of Calana, Peru",earthquake,4.5,5.9,0.214,6,reviewed,us,us
+2020-12-08T02:48:39.460Z,19.479,-155.658666666667,-1.54,2.5,ml,44,79,,0.18,hv,hv72269502,2020-12-09T03:25:24.040Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.4,0.137614896812943,15,reviewed,hv,hv
+2020-12-08T02:21:35.113Z,-9.0173,127.2797,10,4.7,mb,,87,3.061,0.78,us,us7000cp0u,2020-12-09T03:17:42.040Z,"62 km SSE of Lospalos, Timor Leste",earthquake,5.7,1.9,0.142,15,reviewed,us,us
+2020-12-08T01:46:40.120Z,17.9268,-66.9851,11,2.68,md,15,235,0.0729,0.09,pr,pr2020343001,2020-12-08T02:00:45.750Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.69,0.4,0.28,8,reviewed,pr,pr
+2020-12-08T00:54:03.351Z,22.6521,144.7033,10,5,mb,,92,4.98,0.63,us,us7000cp0e,2020-12-08T01:57:10.040Z,"Volcano Islands, Japan region",earthquake,12.5,1.9,0.075,57,reviewed,us,us
+2020-12-08T00:50:18.340Z,19.4843333333333,-155.659,1.91,2.94,ml,48,73,,0.18,hv,hv72269272,2020-12-08T01:11:25.040Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.76,0.174236726106646,24,reviewed,hv,hv
+2020-12-08T00:47:22.955Z,22.5218,144.7525,10,5.3,mww,,15,5.116,0.6,us,us7000cp05,2020-12-08T16:05:49.040Z,"Volcano Islands, Japan region",earthquake,8.1,1.7,0.093,11,reviewed,us,us
+2020-12-08T00:28:06.558Z,69.2127,-144.4103,0,2.8,ml,,,,0.81,ak,ak020fr9i1xq,2020-12-08T00:41:27.113Z,"106 km SSW of Kaktovik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-12-08T00:25:17.440Z,19.48,-155.654333333333,-1.71,3.03,ml,50,75,,0.16,hv,hv72269207,2020-12-08T01:19:22.040Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.23,0.35,0.163997536470745,26,reviewed,hv,hv
+2020-12-08T00:24:52.940Z,17.9945,-66.8298,16,2.92,md,18,168,0.2159,0.14,pr,pr2020343000,2020-12-08T08:27:31.288Z,"1 km W of Indios, Puerto Rico",earthquake,0.59,0.4,0.14,17,reviewed,pr,pr
+2020-12-08T00:00:46.080Z,19.477,-155.657166666667,-1.91,3.24,ml,41,79,,0.18,hv,hv72269172,2020-12-08T03:52:46.040Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.3,0.4,0.169885281851591,24,reviewed,hv,hv
+2020-12-07T23:49:24.420Z,35.2548332,-120.3864975,3.28,2.51,md,23,106,,0.12,nc,nc73495010,2020-12-08T02:05:08.394Z,"24km NE of Arroyo Grande, CA",earthquake,0.36,2.19,0.19,21,automatic,nc,nc
+2020-12-07T23:46:21.833Z,54.6386,-159.4125,25.1,3.9,mb,,87,0.218,0.74,us,us7000cnzi,2020-12-08T06:08:41.466Z,"104 km SE of Sand Point, Alaska",earthquake,5.7,6.6,0.209,6,reviewed,us,us
+2020-12-07T23:27:03.658Z,66.3024,-157.4795,0,2.8,ml,,,,0.73,ak,ak020fpzngfe,2020-12-07T23:52:14.040Z,"67 km SSW of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-12-07T22:30:03.952Z,-8.3337,159.286,82.67,5.1,mb,,91,1.277,0.73,us,us7000cnz4,2020-12-07T22:48:35.040Z,"39 km WSW of Buala, Solomon Islands",earthquake,10,7.4,0.066,75,reviewed,us,us
+2020-12-07T21:24:10.621Z,44.2703,-114.8545,12.84,2.8,ml,,35,0.105,0.54,us,us7000cny6,2020-12-08T05:26:49.317Z,"8 km NE of Stanley, Idaho",earthquake,4.3,8,0.048,56,reviewed,us,us
+2020-12-07T21:04:33.628Z,61.3972,-150.0495,25,2.9,ml,,,,0.6,ak,ak020fpybpzj,2020-12-08T06:25:16.592Z,"5 km NW of Point MacKenzie, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2020-12-07T20:24:24.828Z,-49.6519,126.1107,10,4.6,mb,,125,15.825,1.07,us,us7000cnxq,2020-12-07T20:48:56.040Z,"western Indian-Antarctic Ridge",earthquake,6.9,1.9,0.136,16,reviewed,us,us
+2020-12-07T20:06:15.510Z,-32.8588,-71.1335,72.1,4.2,mb,,100,0.399,0.46,us,us7000cnws,2020-12-08T16:09:18.014Z,"11 km ENE of Quillota, Chile",earthquake,3.8,7.6,0.303,3,reviewed,us,us
+2020-12-07T19:53:10.250Z,-19.2301,-70.5444,71.89,4.4,mb,,169,0.539,0.73,us,us7000cnwp,2020-12-08T16:10:13.136Z,"87 km SSW of Arica, Chile",earthquake,4.4,8.8,0.309,3,reviewed,us,us
+2020-12-07T19:21:15.475Z,38.1628,-117.8612,5.7,2.5,ml,8,123.94,0.008,0.0677,nn,nn00790525,2020-12-08T01:06:16.141Z,"33 km SE of Mina, Nevada",earthquake,,0.9,0.14,7,reviewed,nn,nn
+2020-12-07T19:02:59.919Z,55.3335,-159.2297,15.76,3.3,ml,,127,0.544,0.65,us,us7000cnw5,2020-12-07T19:23:40.040Z,"64 km S of Perryville, Alaska",earthquake,6.3,12.4,0.069,28,reviewed,us,us
+2020-12-07T18:49:09.452Z,69.6087,-144.1329,6.7,2.7,ml,,,,0.57,ak,ak020fpwt0lm,2020-12-07T19:01:26.981Z,"61 km SSW of Kaktovik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2020-12-07T16:28:24.750Z,17.9731,-66.8436,16,2.93,md,17,181,0.2007,0.11,pr,pr2020342008,2020-12-07T17:34:35.040Z,"3 km SW of Indios, Puerto Rico",earthquake,0.46,0.35,0.31,8,reviewed,pr,pr
+2020-12-07T15:52:15.219Z,-4.3708,152.8045,45.49,4.5,mb,,71,0.663,0.45,us,us7000cnua,2020-12-07T17:57:04.040Z,"59 km E of Kokopo, Papua New Guinea",earthquake,7.2,6.5,0.113,27,reviewed,us,us
+2020-12-07T15:17:30.160Z,18.9206,-65.1848,43,3.25,md,4,330,1.0232,0.35,pr,pr2020342007,2020-12-07T16:38:15.527Z,"69 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,6.07,20.26,0.08,3,reviewed,pr,pr
+2020-12-07T14:37:24.262Z,12.9784,124.5019,71.16,5.4,mww,,33,5.966,0.55,us,us7000cnu3,2020-12-08T16:01:33.040Z,"35 km NNE of Biri, Philippines",earthquake,7.5,6.2,0.073,18,reviewed,us,us
+2020-12-07T14:23:03.133Z,-12.5094,167.1354,238.21,4.6,mb,,108,2.921,0.54,us,us7000cnu4,2020-12-07T15:28:18.040Z,"157 km NNW of Sola, Vanuatu",earthquake,12.8,7.6,0.07,61,reviewed,us,us
+2020-12-07T11:42:28.185Z,-24.256,-67.3896,198.23,4.4,mb,,72,1.486,0.63,us,us7000cntm,2020-12-07T13:54:42.040Z,"108 km W of San Antonio de los Cobres, Argentina",earthquake,9.3,6.6,0.148,13,reviewed,us,us
+2020-12-07T11:10:41.783Z,-21.6991,-179.2447,602.54,4.8,mb,,75,4.685,1.09,us,us7000cntd,2020-12-07T11:26:56.040Z,"Fiji region",earthquake,11.5,8.5,0.038,210,reviewed,us,us
+2020-12-07T11:05:06.296Z,38.167,-118.0855,4.6,2.6,ml,29,76.58,0.027,0.1477,nn,nn00790459,2020-12-07T17:46:18.815Z,"24 km S of Mina, Nevada",earthquake,,1,0.28,14,reviewed,nn,nn
+2020-12-07T10:39:29.729Z,69.5239,-144.2584,1.9,3.7,ml,,,,0.83,ak,ak020fprzg6z,2020-12-07T11:32:50.040Z,"72 km SSW of Kaktovik, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2020-12-07T10:27:42.860Z,36.0674,140.2565,63.57,4.2,mb,,214,1.72,0.36,us,us7000cnt8,2020-12-07T12:15:36.040Z,"6 km NE of Ami, Japan",earthquake,11.4,5.6,0.159,11,reviewed,us,us
+2020-12-07T08:31:17.123Z,38.178,-117.8765,8.7,3.5,ml,33,40.31,0.017,0.1532,nn,nn00790418,2020-12-08T08:32:59.339Z,"Nevada",earthquake,,0.5,0.28,15,reviewed,nn,nn
+2020-12-07T08:25:26.670Z,17.7451,-64.1811,36,3.44,md,6,350,1.7143,0.44,pr,pr2020342004,2020-12-07T09:58:36.200Z,"60 km E of Saint Croix, U.S. Virgin Islands",earthquake,10.11,27.95,0.01,4,reviewed,pr,pr
+2020-12-07T07:49:33.140Z,19.2145,-65.0746,50,3.18,md,7,337,1.3226,0.22,pr,pr2020342005,2020-12-07T10:19:03.208Z,"97 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.9,13.85,0.08,5,reviewed,pr,pr
+2020-12-07T07:36:06.140Z,18.9008,-65.1493,38,3.38,md,12,331,1.032,0.1,pr,pr2020342003,2020-12-07T09:25:40.537Z,"66 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.09,8.36,0.11,4,reviewed,pr,pr
+2020-12-07T07:07:23.880Z,18.9405,-65.1383,28,3.46,md,18,324,1.0688,0.16,pr,pr2020342001,2020-12-07T15:09:57.280Z,"69 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.2,11.45,0.03,2,reviewed,pr,pr
+2020-12-07T06:43:07.641Z,19.2316,120.8168,35.76,4.6,mb,,113,3.576,0.6,us,us7000cnsb,2020-12-07T14:56:10.896Z,"74 km N of Pagudpud, Philippines",earthquake,10.1,7.6,0.09,37,reviewed,us,us
+2020-12-07T05:26:40.370Z,17.9791,-66.8543,14,2.55,md,17,177,0.1902,0.15,pr,pr2020342012,2020-12-08T21:43:32.324Z,"3 km E of Maria Antonia, Puerto Rico",earthquake,0.48,0.49,0.2,16,reviewed,pr,pr
+2020-12-07T05:25:45.796Z,-20.9799,-179.1215,621.08,5.4,mww,,44,4.179,1.45,us,us7000cns5,2020-12-09T06:23:01.040Z,"Fiji region",earthquake,11,7.4,0.093,11,reviewed,us,us
+2020-12-07T04:47:13.766Z,39.9835,54.6295,10,4.3,mb,,108,7.586,0.83,us,us7000cnrr,2020-12-07T21:51:32.040Z,"57 km NNE of Balkanabat, Turkmenistan",earthquake,8.9,1.9,0.119,20,reviewed,us,us
+2020-12-07T04:13:06.741Z,59.8536,-152.6951,86.4,2.5,ml,,,,0.47,ak,ak020fpo984i,2020-12-07T04:26:06.940Z,"49 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-12-07T04:12:25.430Z,31.6113333,-116.507,15.91,2.53,ml,10,224,0.2888,0.17,ci,ci39487247,2020-12-07T21:39:25.234Z,"13km SSE of Maneadero, B.C., MX",earthquake,0.67,1.22,0.366,2,reviewed,ci,ci
+2020-12-07T03:58:09.560Z,33.0455,-115.5841667,12.9,3.33,ml,58,39,0.007465,0.24,ci,ci39487231,2020-12-08T04:00:37.036Z,"4km ENE of Westmorland, CA",earthquake,0.19,0.49,0.149,100,reviewed,ci,ci
+2020-12-07T00:24:47.200Z,35.8835,-117.7008333,2.62,3.07,ml,39,32,0.0762,0.15,ci,ci39487087,2020-12-08T03:56:08.040Z,"20km ESE of Little Lake, CA",earthquake,0.12,0.24,0.124,82,reviewed,ci,ci
+2020-12-07T00:17:57.410Z,19.2408333333333,-155.4035,32.24,2.6,md,51,95,,0.11,hv,hv72267247,2020-12-07T06:04:25.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.61,0.67,0.132404034141669,23,reviewed,hv,hv
+2020-12-06T23:59:12.525Z,54.3729,-159.696,21.75,4,mb,,165,0.463,0.65,us,us7000cnqs,2020-12-07T06:00:16.040Z,"119 km SSE of Sand Point, Alaska",earthquake,5.5,8.6,0.26,4,reviewed,us,us
+2020-12-06T22:47:14.816Z,31.6553,-104.2987,10.77,2.8,ml,,59,0.118,0.39,us,us7000cnql,2020-12-07T00:34:43.040Z,"58 km S of Whites City, New Mexico",earthquake,1.1,4.5,0.044,68,reviewed,us,us
+2020-12-06T22:17:01.268Z,-37.1922,177.063,280.97,4.5,mb,,183,1.057,0.45,us,us7000cnqg,2020-12-07T00:30:12.040Z,"83 km NE of Maketu, New Zealand",earthquake,11.9,10,0.172,10,reviewed,us,us
+2020-12-06T22:13:52.485Z,62.2635,-148.7849,24.3,2.8,ml,,,,0.75,ak,ak020fobfs2k,2020-12-07T00:13:49.040Z,"54 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-12-06T21:54:04.232Z,-31.5374,-67.3425,120.99,4.5,mb,,57,1.145,0.57,us,us7000cnq8,2020-12-07T00:03:59.040Z,"89 km E of Caucete, Argentina",earthquake,8.1,8.2,0.135,16,reviewed,us,us
+2020-12-06T21:19:16.230Z,38.1658,-118.0663,6,2.6,ml,28,68.58,0.013,0.1155,nn,nn00790309,2020-12-07T20:08:48.667Z,"25 km S of Mina, Nevada",earthquake,,0.8,0.27,12,reviewed,nn,nn
+2020-12-06T20:40:21.115Z,38.1848,-117.7469,10.7,3,ml,25,70.66,0.043,0.1232,nn,nn00790301,2020-12-06T21:37:44.040Z,"39 km SE of Mina, Nevada",earthquake,,0.7,0.26,11,reviewed,nn,nn
+2020-12-06T19:24:13.630Z,-38.9845,177.5095,33.96,4.6,mb,,185,0.553,0.82,us,us7000cnpp,2020-12-07T03:05:05.310Z,"13 km ENE of Wairoa, New Zealand",earthquake,7,10.3,0.207,7,reviewed,us,us
+2020-12-06T17:13:59.950Z,18.7078,-64.4583,58,3.63,md,6,341,1.5012,0.49,pr,pr2020341004,2020-12-06T18:27:05.040Z,"54 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,6.87,21.38,0.08,5,reviewed,pr,pr
+2020-12-06T17:13:20.199Z,56.1843,-149.2265,20.76,3.3,ml,,259,2.438,0.39,us,us7000cnp5,2020-12-07T01:16:01.381Z,"244 km SE of Chiniak, Alaska",earthquake,12.2,12.1,0.066,30,reviewed,us,us
+2020-12-06T16:57:22.310Z,44.4325,-110.3061667,6.02,2.62,ml,21,74,0.0434,0.16,uu,uu60420897,2020-12-07T16:38:11.440Z,"Wyoming",earthquake,0.3,0.66,0.215,5,reviewed,uu,uu
+2020-12-06T16:47:42.152Z,-20.3689,-69.0887,99.86,6.1,mww,,31,0.703,1.13,us,us7000cnnz,2020-12-08T17:00:53.711Z,"112 km E of Iquique, Chile",earthquake,5.4,3.7,0.042,54,reviewed,us,us
+2020-12-06T16:34:15.200Z,40.284832,-124.3600006,19.35,2.91,ml,10,250,0.07721,0.07,nc,nc73494460,2020-12-06T19:37:06.674Z,"8km SW of Petrolia, CA",earthquake,1.34,0.58,0.393,5,automatic,nc,nc
+2020-12-06T16:13:57.896Z,54.4669,-159.826,8.61,4.3,mb,,164,0.389,0.47,us,us7000cnpz,2020-12-07T00:16:24.678Z,"105 km SSE of Sand Point, Alaska",earthquake,4.7,5.3,0.119,22,reviewed,us,us
+2020-12-06T16:08:49.702Z,44.0378,148.4464,27.69,4.8,mb,,120,4.218,0.43,us,us7000cnnv,2020-12-06T18:46:14.674Z,"139 km SSE of Kuril’sk, Russia",earthquake,10.4,5.2,0.06,88,reviewed,us,us
+2020-12-06T16:06:48.654Z,35.8692,140.1811,69.58,4.5,mb,,41,1.73,0.45,us,us7000cnpk,2020-12-06T19:11:45.040Z,"3 km S of Ryūgasaki, Japan",earthquake,7.3,7.2,0.085,40,reviewed,us,us
+2020-12-06T15:22:32.302Z,-15.4057,167.6249,115.52,4.6,mb,,114,0.408,0.48,us,us7000cnnq,2020-12-06T16:16:09.040Z,"51 km ENE of Luganville, Vanuatu",earthquake,10.1,1.5,0.083,43,reviewed,us,us
+2020-12-06T15:17:53.130Z,33.237,-116.6693333,9.2,3.62,mw,138,12,0.04204,0.21,ci,ci39486671,2020-12-09T02:33:31.462Z,"6km SSW of Warner Springs, CA",earthquake,0.11,0.32,,4,reviewed,ci,ci
+2020-12-06T15:14:18.230Z,38.168,-117.8379,3.1,2.6,ml,26,50.23,0.027,0.0927,nn,nn00790273,2020-12-06T18:12:12.040Z,"34 km SE of Mina, Nevada",earthquake,,0.6,0.34,10,reviewed,nn,nn
+2020-12-06T15:03:33.260Z,39.0376667,-123.0671667,4.95,4.39,mw,74,52,0.0443,0.1,nc,nc73494405,2020-12-09T10:49:52.456Z,"13km W of Lakeport, CA",earthquake,0.17,0.4,,4,reviewed,nc,nc
+2020-12-06T14:05:23.560Z,17.9158,-66.8421,7,3.12,md,19,201,0.2091,0.15,pr,pr2020341003,2020-12-06T14:21:55.040Z,"8 km SE of Maria Antonia, Puerto Rico",earthquake,0.62,0.41,0.22,15,reviewed,pr,pr
+2020-12-06T12:12:21.403Z,38.1789,-118.0569,3.4,2.6,ml,28,59.57,0.02,0.1319,nn,nn00790190,2020-12-09T12:07:11.040Z,"23 km S of Mina, Nevada",earthquake,,0.8,0.35,12,reviewed,nn,nn
+2020-12-06T12:11:49.481Z,-61.9538,154.7332,10,4.9,mb,,90,15.81,0.58,us,us7000cnmp,2020-12-06T12:29:56.040Z,"Balleny Islands region",earthquake,13.8,1.9,0.112,25,reviewed,us,us
+2020-12-06T10:24:56.511Z,55.0617,-158.0751,34.6,3.1,ml,,,,1.11,ak,ak020fo4cy1i,2020-12-06T18:27:30.295Z,"116 km SE of Perryville, Alaska",earthquake,,7.2,,,automatic,ak,ak
+2020-12-06T09:58:42.014Z,31.6982,-104.3661,5,2.7,ml,,45,0.093,0.49,us,us7000cnlv,2020-12-06T10:11:45.040Z,"52 km S of Whites City, New Mexico",earthquake,1.3,1.5,0.055,44,reviewed,us,us
+2020-12-06T09:08:42.190Z,17.866,-66.8383,7,2.68,md,17,220,0.2304,0.23,pr,pr2020341002,2020-12-06T09:29:34.140Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,0.77,0.5,0.25,10,reviewed,pr,pr
+2020-12-06T08:50:50.912Z,60.629,-150.0878,40.4,2.6,ml,,,,0.9,ak,ak020fo3bmys,2020-12-06T09:03:36.435Z,"21 km NW of Cooper Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-12-06T07:19:43.085Z,41.5042,19.5189,10,4.6,mb,,36,0.944,1.16,us,us7000cnkw,2020-12-08T14:19:07.303Z,"16 km WSW of Mamurras, Albania",earthquake,4.7,1.4,0.103,28,reviewed,us,us
+2020-12-06T06:41:26.511Z,-18.9079,-173.0353,10,5.1,mww,,116,5.114,0.86,us,us7000cnkq,2020-12-06T07:21:33.040Z,"104 km ESE of Neiafu, Tonga",earthquake,6.1,1.8,0.093,11,reviewed,us,us
+2020-12-06T06:21:34.000Z,33.9826667,-118.192,13.6,2.52,ml,99,27,0.03633,0.23,ci,ci39486375,2020-12-08T16:52:14.450Z,"1km NW of Bell, CA",earthquake,0.18,0.32,0.201,173,reviewed,ci,ci
+2020-12-06T05:28:53.273Z,62.4398,-148.0202,13.6,2.5,ml,,,,0.6,ak,ak020fo1emoz,2020-12-06T06:14:34.040Z,"71 km NW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-12-06T04:46:51.026Z,56.0576,-159.0355,95.2,3.6,ml,,125,0.424,0.84,us,us7000cnk9,2020-12-06T04:57:24.040Z,"17 km NNE of Perryville, Alaska",earthquake,10,15.1,0.074,24,reviewed,us,us
+2020-12-06T04:06:51.737Z,33.5324,141.1267,58.06,5.1,mww,,93,1.175,0.84,us,us7000cnk2,2020-12-09T06:08:08.040Z,"193 km SSE of Katsuura, Japan",earthquake,7.3,6,0.093,11,reviewed,us,us
+2020-12-06T01:50:03.777Z,40.0967,13.0035,452.34,4,mb,,70,2.03,1.13,us,us7000cniy,2020-12-06T02:09:56.040Z,"85 km SSW of Ventotene, Italy",earthquake,13.5,12.3,0.182,10,reviewed,us,us
+2020-12-06T01:37:05.522Z,37.0799,34.4633,55.47,4.1,mb,,82,2.08,1.06,us,us7000cnix,2020-12-06T10:22:00.176Z,"33 km NNW of Mersin, Turkey",earthquake,3.8,10,0.235,5,reviewed,us,us
+2020-12-06T01:35:46.906Z,38.1609,-118.0904,4.7,2.7,ml,27,77.08,0.03,0.1182,nn,nn00790075,2020-12-06T17:08:04.199Z,"25 km S of Mina, Nevada",earthquake,,1,0.28,12,reviewed,nn,nn
+2020-12-06T01:05:44.064Z,-26.9122,26.7738,10,4.8,mb,,86,2.164,0.81,us,us7000cnip,2020-12-06T16:45:51.280Z,"7 km S of Stilfontein, South Africa",earthquake,6.4,1.9,0.139,16,reviewed,us,us
+2020-12-06T00:59:52.269Z,44.3681,-115.157,10.65,2.5,ml,,70,0.208,0.25,us,us7000cnil,2020-12-06T14:59:21.610Z,"24 km NW of Stanley, Idaho",earthquake,1.7,9.4,0.066,30,reviewed,us,us
+2020-12-06T00:27:23.735Z,37.9491,66.4806,10,4.9,mb,,72,3.982,0.7,us,us7000cnig,2020-12-06T00:44:23.040Z,"41 km ENE of Gowurdak, Turkmenistan",earthquake,3,1.9,0.065,75,reviewed,us,us
+2020-12-05T23:46:51.638Z,38.1681,-118.0525,6.8,2.8,ml,27,58.47,0.008,0.1416,nn,nn00790036,2020-12-07T21:48:23.317Z,"25 km SSE of Mina, Nevada",earthquake,,0.7,0.48,12,reviewed,nn,nn
+2020-12-05T23:44:24.740Z,34.9645,-116.7116667,9.22,2.65,ml,51,49,0.1281,0.16,ci,ci39486175,2020-12-09T00:43:12.060Z,"29km ENE of Barstow, CA",earthquake,0.14,0.49,0.108,27,reviewed,ci,ci
+2020-12-05T22:57:52.192Z,-19.5596,-174.0154,35,4.5,mb,,104,3.89,0.84,us,us7000cnhz,2020-12-05T23:40:12.040Z,"45 km NE of Pangai, Tonga",earthquake,12.7,2,0.18,9,reviewed,us,us
+2020-12-05T22:38:42.481Z,-28.2203,-71.4005,29.86,4.3,mb,,146,0.288,0.96,us,us7000cnhr,2020-12-05T22:55:46.040Z,"74 km WNW of Vallenar, Chile",earthquake,5.3,3,0.201,7,reviewed,us,us
+2020-12-05T20:12:08.600Z,17.9456,-66.5728,13,2.67,md,15,187,0.1028,0.2,pr,pr2020340011,2020-12-05T20:30:40.629Z,"8 km SSW of Capitanejo, Puerto Rico",earthquake,0.67,0.34,0.19,10,reviewed,pr,pr
+2020-12-05T20:02:49.801Z,-21.4177,-68.8473,121.21,4.2,mb,,37,0.526,0.54,us,us7000cnh4,2020-12-05T22:29:46.040Z,"115 km N of Calama, Chile",earthquake,5.1,5.6,0.136,15,reviewed,us,us
+2020-12-05T19:30:35.133Z,15.6739,-89.9859,18.61,4.3,mb,,81,1.24,0.68,us,us7000cnh0,2020-12-05T22:20:32.040Z,"12 km N of Lanquín, Guatemala",earthquake,2.8,6.1,0.081,43,reviewed,us,us
+2020-12-05T18:37:49.090Z,41.5238333,-108.7661667,-2,3.2,ml,8,188,0.5616,0.08,uu,uu60420837,2020-12-07T21:13:14.950Z,"17 km S of Point of Rocks, Wyoming",quarry blast,0.71,31.61,0.487,3,reviewed,uu,uu
+2020-12-05T18:25:26.062Z,66.3206,-157.002,0.1,2.6,ml,,,,1.1,ak,ak020fmll7qs,2020-12-05T21:22:12.040Z,"63 km S of Shungnak, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-12-05T17:55:56.750Z,17.9478,-67.0998,11,3,md,18,237,0.0594,0.12,pr,pr2020340010,2020-12-05T20:25:53.040Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.57,0.3,0.23,11,reviewed,pr,pr
+2020-12-05T17:55:22.919Z,54.6606,-159.7159,32.2,4.4,mb,,149,0.185,0.78,us,us7000cngk,2020-12-06T01:57:52.877Z,"90 km SSE of Sand Point, Alaska",earthquake,3.3,5.6,0.109,28,reviewed,us,us
+2020-12-05T16:06:49.676Z,38.1449,-118.1052,5.6,3.2,ml,28,54.81,0.044,0.1234,nn,nn00789921,2020-12-06T04:17:25.945Z,"27 km S of Mina, Nevada",earthquake,,1.3,0.3,13,reviewed,nn,nn
+2020-12-05T14:22:56.680Z,19.4893333333333,-155.669166666667,3.8,2.8,ml,28,88,,0.1,hv,hv72263517,2020-12-05T15:23:25.821Z,"20 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.67,0.115573094083504,23,reviewed,hv,hv
+2020-12-05T14:18:58.430Z,17.8768,-65.6126,31,2.94,ml,3,341,0.9866,0.3,pr,pr2020340009,2020-12-05T14:52:16.358Z,"28 km SSW of Esperanza, Puerto Rico",earthquake,5.24,24,0,0,reviewed,pr,pr
+2020-12-05T13:58:24.660Z,17.8695,-66.8808,7,2.86,md,20,221,0.1915,0.19,pr,pr2020340008,2020-12-05T14:23:54.966Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.68,1.33,0.16,17,reviewed,pr,pr
+2020-12-05T13:48:12.370Z,32.5916667,-117.29,15.71,3.25,ml,47,200,0.1351,0.16,ci,ci39485839,2020-12-07T18:42:35.967Z,"14km SW of Coronado, CA",earthquake,0.37,0.28,0.108,115,reviewed,ci,ci
+2020-12-05T13:26:25.990Z,19.4773333333333,-155.657666666667,-1.06,3.34,ml,52,79,,0.17,hv,hv72263417,2020-12-05T22:32:19.379Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.45,0.156947376549974,29,reviewed,hv,hv
+2020-12-05T13:26:03.590Z,19.2723,-68.2048,43,3.51,md,11,336,1.1466,0.37,pr,pr2020340007,2020-12-05T14:06:40.750Z,"79 km NNE of Punta Cana, Dominican Republic",earthquake,4.32,24.99,0.02,6,reviewed,pr,pr
+2020-12-05T13:18:27.732Z,38.1623,-118.0544,6.4,2.6,ml,22,139.3,0.003,0.1138,nn,nn00789874,2020-12-06T02:29:35.468Z,"25 km S of Mina, Nevada",earthquake,,0.8,0.29,9,reviewed,nn,nn
+2020-12-05T12:44:40.087Z,36.0216,31.8624,82.75,5.3,mww,,24,1.598,1.16,us,us7000cnf1,2020-12-07T15:52:13.815Z,"49 km SW of Gazipaşa, Turkey",earthquake,5.2,4.2,0.045,48,reviewed,us,us
+2020-12-05T11:25:44.280Z,38.1904,-117.7536,9.6,2.5,ml,25,70.64,0.038,0.1204,nn,nn00789846,2020-12-05T23:05:46.473Z,"38 km SE of Mina, Nevada",earthquake,,0.7,0.22,10,reviewed,nn,nn
+2020-12-05T10:48:21.509Z,-4.1221,129.7057,58.1,4.2,mb,,76,2.805,0.47,us,us7000cnek,2020-12-05T11:47:43.040Z,"122 km SE of Amahai, Indonesia",earthquake,8,7,0.124,18,reviewed,us,us
+2020-12-05T10:32:01.624Z,-22.4442,-70.469,70.5,4.3,mb,,127,0.475,0.78,us,us7000cnef,2020-12-05T10:59:16.040Z,"47 km SW of Tocopilla, Chile",earthquake,7.2,12.2,0.177,9,reviewed,us,us
+2020-12-05T10:14:42.126Z,-24.26,-67.1303,167.82,4.6,mb,,67,1.618,1.04,us,us7000cne9,2020-12-05T10:46:25.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,5,8.1,0.062,78,reviewed,us,us
+2020-12-05T08:08:29.116Z,-7.716,128.3303,93,4.9,mww,,56,2.952,0.85,us,us7000cnd4,2020-12-05T08:25:41.040Z,"171 km ENE of Lospalos, Timor Leste",earthquake,7.6,6.9,0.098,10,reviewed,us,us
+2020-12-05T07:19:03.034Z,48.3593,-114.1698,12.36,3.2,ml,,94,0.617,0.82,us,us7000cncv,2020-12-08T21:13:29.950Z,"1 km SSE of Columbia Falls, Montana",earthquake,2.7,8.1,0.052,48,reviewed,us,us
+2020-12-05T07:18:51.887Z,59.1001,-154.5648,133.5,2.5,ml,,,,0.78,ak,ak020fmf001g,2020-12-05T07:37:54.496Z,"39 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-12-05T07:18:51.215Z,58.95,-154.4208,130.1,2.5,ml,,,,0.71,ak,ak020fmf03wb,2020-12-06T05:37:40.040Z,"58 km SSE of Kokhanok, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2020-12-05T06:51:34.330Z,19.408,-155.283166666667,1.08,2.75,ml,43,29,,0.11,hv,hv72262782,2020-12-05T07:16:10.898Z,"6 km SW of Volcano, Hawaii",earthquake,0.13,0.12,0.148206860079052,17,reviewed,hv,hv
+2020-12-05T06:48:38.369Z,-62.3079,-58.2254,4.43,5.1,mww,,65,0.216,0.79,us,us7000cnci,2020-12-05T14:56:02.040Z,"South Shetland Islands",earthquake,5.7,4,0.098,10,reviewed,us,us
+2020-12-05T06:43:20.119Z,-18.8829,-172.7717,10,5.4,mww,,73,5.036,1.3,us,us7000cnc9,2020-12-06T06:46:24.820Z,"130 km E of Neiafu, Tonga",earthquake,10.1,1.8,0.063,24,reviewed,us,us
+2020-12-05T05:59:39.955Z,43.1902,143.6908,113.42,4.2,mb,,159,1.223,0.31,us,us7000cnc6,2020-12-05T06:49:55.040Z,"45 km ENE of Otofuke, Japan",earthquake,8.7,9.5,0.146,13,reviewed,us,us
+2020-12-05T05:41:29.460Z,33.4211667,-116.9311667,8.08,3.79,ml,152,17,0.08846,0.23,ci,ci39485527,2020-12-09T16:55:12.490Z,"7km WSW of Aguanga, CA",earthquake,0.1,0.5,0.146,221,reviewed,ci,ci
+2020-12-05T05:19:05.084Z,54.5641,-159.6479,21.04,2.7,ml,,206,0.269,0.77,us,us7000cnh1,2020-12-06T05:39:47.040Z,"101 km SSE of Sand Point, Alaska",earthquake,2.5,11.5,0.094,15,reviewed,us,us
+2020-12-05T04:57:44.602Z,41.999,142.6109,61.95,4.6,mb,,126,0.407,0.68,us,us7000cnb3,2020-12-05T05:27:16.040Z,"42 km SSE of Shizunai-furukawachō, Japan",earthquake,6.5,8,0.086,40,reviewed,us,us
+2020-12-05T04:16:15.535Z,38.1632,-117.8578,5.4,2.6,ml,27,54.55,0.011,0.146,nn,nn00789715,2020-12-05T22:34:44.856Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.27,12,reviewed,nn,nn
+2020-12-05T03:46:55.080Z,18.6361,-67.4696,5,3,md,19,208,0.2518,0.39,pr,pr2020340000,2020-12-05T05:39:09.175Z,"40 km NW of Rincón, Puerto Rico",earthquake,1.72,1.33,0.2,12,reviewed,pr,pr
+2020-12-05T02:46:07.951Z,59.8064,-153.8897,174.4,2.6,ml,,,,0.73,ak,ak020fmc6r0m,2020-12-05T02:59:36.138Z,"12 km E of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
+2020-12-05T02:37:54.180Z,19.4116666666667,-155.294,2.49,2.51,ml,44,37,,0.12,hv,hv72262317,2020-12-05T02:54:27.566Z,"7 km WSW of Volcano, Hawaii",earthquake,0.21,0.19,0.147885971737722,14,reviewed,hv,hv
+2020-12-05T02:37:11.450Z,40.6253319,-124.1633301,22.47,2.91,md,23,148,0.2,0.09,nc,nc73493750,2020-12-05T09:19:16.413Z,"3km N of Fortuna, CA",earthquake,0.47,0.68,0.15,29,automatic,nc,nc
+2020-12-05T01:27:01.107Z,31.7381,-104.1658,5,2.5,ml,,64,0.226,0.19,us,us7000cn9i,2020-12-05T01:37:42.040Z,"52 km SSE of Whites City, New Mexico",earthquake,1.4,0.9,0.115,58,reviewed,us,us
+2020-12-05T00:29:43.004Z,56.854,-152.3222,0,2.7,ml,,,,0.71,ak,ak020fmawazg,2020-12-05T00:42:56.040Z,"71 km ESE of Old Harbor, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2020-12-04T23:55:38.054Z,-2.4829,-79.26,10,3.4,ml,,203,0.016,1.31,us,us7000cnby,2020-12-06T04:28:45.885Z,"11 km SE of La Troncal, Ecuador",earthquake,5.7,1.9,0.148,6,reviewed,us,us
+2020-12-04T23:53:28.002Z,-2.5471,-79.3152,2.23,3.3,ml,,249,0.099,0.48,us,us7000cnbu,2020-12-06T04:26:06.040Z,"13 km SSE of La Troncal, Ecuador",earthquake,6.1,12.1,0.148,6,reviewed,us,us
+2020-12-04T23:25:35.990Z,19.3693333333333,-155.214666666667,1.88,2.59,ml,39,85,,0.1,hv,hv72262042,2020-12-06T21:53:11.040Z,"8 km SSE of Volcano, Hawaii",earthquake,0.25,0.21,0.15976917338138,16,reviewed,hv,hv
+2020-12-04T23:18:09.249Z,61.4639,-150.7225,57.9,3,ml,,,,0.69,ak,ak020fl0zhut,2020-12-06T21:53:39.018Z,"14 km SW of Susitna, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2020-12-04T22:41:15.891Z,38.1485,-117.9923,7.9,3.1,ml,34,42.53,0.028,0.155,nn,nn00789615,2020-12-05T06:46:00.627Z,"28 km SSE of Mina, Nevada",earthquake,,0.6,0.2,15,reviewed,nn,nn
+2020-12-04T21:41:23.609Z,55.1255,-159.4096,3.86,3.5,ml,,129,0.312,0.77,us,us7000cn6h,2020-12-06T21:42:42.040Z,"73 km ESE of Sand Point, Alaska",earthquake,7.4,12.1,0.064,32,reviewed,us,us
+2020-12-04T21:16:24.039Z,36.20316667,-96.9695,7.83,2.69,ml,100,35,0,0.23,ok,ok2020xvec,2020-12-04T21:51:31.956Z,"4 km SW of Glencoe, Oklahoma",earthquake,,0.4,0.23,32,reviewed,ok,ok
+2020-12-04T21:01:42.040Z,17.9888,-66.8633,15,2.69,md,18,171,0.182,0.24,pr,pr2020339011,2020-12-04T21:15:47.576Z,"2 km SSE of Palomas, Puerto Rico",earthquake,0.51,0.63,0.23,14,reviewed,pr,pr
+2020-12-04T20:45:20.215Z,60.8935,-150.2894,45.4,3.5,ml,,,,0.59,ak,ak020fkzd08l,2020-12-06T08:24:58.679Z,"21 km E of Point Possession, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2020-12-04T20:30:11.590Z,-40.1774,77.9261,10,5.1,mww,,29,2.393,0.81,us,us7000cn5r,2020-12-04T21:34:31.040Z,"Mid-Indian Ridge",earthquake,9.6,1.8,0.098,10,reviewed,us,us
+2020-12-04T20:14:56.190Z,19.3586673736572,-155.218673706055,0.469999998807907,2.75,ml,24,57,,0.280000001,hv,hv72261712,2020-12-04T20:20:33.740Z,"9 km S of Volcano, Hawaii",earthquake,0.54,0.660000026,0.34,21,automatic,hv,hv
+2020-12-04T20:14:55.130Z,19.372,-155.209833333333,1.77,2.83,ml,42,90,,0.21,hv,hv72261707,2020-12-04T22:19:23.040Z,"8 km SSE of Volcano, Hawaii",earthquake,0.37,0.29,0.14596539767894,17,reviewed,hv,hv
+2020-12-04T20:10:42.470Z,19.3701666666667,-155.213833333333,1.96,2.69,ml,39,95,,0.09,hv,hv72261702,2020-12-04T22:13:15.040Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.23,0.160532565248611,18,reviewed,hv,hv
+2020-12-04T20:09:42.119Z,5.1474,94.2493,37.14,4.4,mb,,74,2.688,0.75,us,us7000cn53,2020-12-04T22:04:51.040Z,"127 km WSW of Banda Aceh, Indonesia",earthquake,6.1,7.3,0.087,48,reviewed,us,us
+2020-12-04T19:32:00.837Z,4.0809,122.8125,540.64,4.3,mb,,55,3.58,0.56,us,us7000cn4t,2020-12-04T21:47:57.040Z,"238 km SSE of Tabiauan, Philippines",earthquake,10.9,6.3,0.099,34,reviewed,us,us
+2020-12-04T19:26:25.140Z,18.8573,-67.807,16,2.99,md,13,228,0.5754,0.43,pr,pr2020339010,2020-12-04T21:09:21.272Z,"69 km ENE of Punta Cana, Dominican Republic",earthquake,2.76,6.63,0.06,8,reviewed,pr,pr
+2020-12-04T19:21:04.890Z,31.6622,-104.3079,8.6,3.3,ml,,58,0.111,0.34,us,us7000cn4m,2020-12-04T19:43:09.040Z,"57 km S of Whites City, New Mexico",earthquake,1,7.3,0.077,98,reviewed,us,us
+2020-12-04T19:07:54.970Z,31.9603333,-116.8268333,9,2.86,ml,15,218,0.166,0.26,ci,ci39485111,2020-12-04T21:17:58.274Z,"15km WNW of El Sauzal, B.C., MX",earthquake,0.84,1.45,0.146,55,reviewed,ci,ci
+2020-12-04T18:40:09.050Z,36.672,-90.8593333,0.65,2.7,md,36,106,0.1916,0.22,nm,nm60335596,2020-12-07T00:11:09.780Z,"6 km NNW of Doniphan, Missouri",earthquake,0.71,2.09,0.18,21,reviewed,nm,nm
+2020-12-04T18:10:27.454Z,38.1744,-118.0616,3.8,3.2,ml,32,48.05,0.016,0.148,nn,nn00789493,2020-12-05T02:30:41.685Z,"24 km S of Mina, Nevada",earthquake,,0.7,0.25,15,reviewed,nn,nn
+2020-12-04T18:10:13.199Z,9.2736,-85.8571,10,4.4,mb,,149,1.347,0.81,us,us7000cn3z,2020-12-08T04:07:44.093Z,"76 km SSW of Sámara, Costa Rica",earthquake,6.1,1.9,0.101,28,reviewed,us,us
+2020-12-04T17:44:24.580Z,19.5126666666667,-155.662666666667,4.73,4.06,ml,45,69,,0.12,hv,hv72261397,2020-12-07T12:22:02.479Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.47,0.141418852573527,27,reviewed,hv,hv
+2020-12-04T16:24:32.000Z,19.1368,-67.8383,41,3.36,md,9,259,0.8264,0.67,pr,pr2020339009,2020-12-04T17:02:40.497Z,"85 km NE of Punta Cana, Dominican Republic",earthquake,4.63,19.41,0.13,7,reviewed,pr,pr
+2020-12-04T16:09:50.072Z,38.1685,-117.8843,8.9,2.7,ml,30,55.37,0.012,0.1461,nn,nn00789450,2020-12-05T02:30:36.099Z,"31 km SE of Mina, Nevada",earthquake,,0.6,0.36,14,reviewed,nn,nn
+2020-12-04T14:07:31.570Z,45.1128333333333,-123.575333333333,47.5,3.53,ml,71,73,0.07653,0.21,uw,uw61694182,2020-12-06T20:52:32.365Z,"6 km NNW of Fort Hill Census Designated Place, Oregon",earthquake,0.28,0.47,0.213359908267095,23,reviewed,uw,uw
+2020-12-04T13:58:57.450Z,17.8635,-66.8571,14,2.99,md,18,244,0.1138,0.16,pr,pr2020339008,2020-12-04T22:01:21.933Z,"13 km SSE of Guánica, Puerto Rico",earthquake,0.9,0.73,0.08,10,reviewed,pr,pr
+2020-12-04T13:50:48.223Z,38.1593,-118.08,7.2,3,ml,32,46.96,0.022,0.1306,nn,nn00789385,2020-12-05T02:30:27.270Z,"25 km S of Mina, Nevada",earthquake,,0.7,0.3,16,reviewed,nn,nn
+2020-12-04T11:54:22.740Z,33.4791667,-116.8011667,3.9,2.85,ml,136,12,0.03312,0.23,ci,ci39484863,2020-12-06T01:23:00.279Z,"7km NE of Aguanga, CA",earthquake,0.11,0.39,0.172,25,reviewed,ci,ci
+2020-12-04T10:48:50.170Z,38.8133316,-122.8115005,3.62,3.19,ml,60,26,0.01451,0.07,nc,nc73493085,2020-12-06T17:12:00.598Z,"6km NW of The Geysers, CA",earthquake,0.15,0.21,0.192,11,automatic,nc,nc
+2020-12-04T10:45:06.480Z,38.82,-122.8088333,2.59,3.71,mw,88,24,0.003526,0.06,nc,nc73493050,2020-12-07T16:20:27.551Z,"7km NW of The Geysers, CA",earthquake,0.1,0.16,,3,reviewed,nc,nc
+2020-12-04T09:57:20.520Z,-6.5516,127.396,403.64,4.8,mb,,53,4.124,0.82,us,us7000cmye,2020-12-04T10:11:25.040Z,"222 km NNE of Lospalos, Timor Leste",earthquake,8.7,7.9,0.079,50,reviewed,us,us
+2020-12-04T09:34:16.264Z,37.8148,26.7818,10,4.5,mb,,66,1.554,0.74,us,us7000cmy8,2020-12-04T11:18:38.040Z,"7 km ENE of Néon Karlovásion, Greece",earthquake,3.9,1.9,0.118,21,reviewed,us,us
+2020-12-04T09:32:22.880Z,38.1541,-117.9424,11.7,2.7,ml,32,56.19,0.02,0.1383,nn,nn00789310,2020-12-05T02:30:17.463Z,"30 km SSE of Mina, Nevada",earthquake,,0.5,0.18,15,reviewed,nn,nn
+2020-12-04T08:27:03.657Z,38.167,-117.8608,8.4,2.9,ml,31,44.08,0.01,0.1723,nn,nn00789267,2020-12-05T02:30:10.389Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.29,14,reviewed,nn,nn
+2020-12-04T08:24:37.630Z,-23.2875,179.4102,530.43,4.3,mb,,100,5.659,0.94,us,us7000cmwg,2020-12-04T08:58:05.040Z,"south of the Fiji Islands",earthquake,11,13,0.122,19,reviewed,us,us
+2020-12-04T07:31:22.143Z,54.1552,-159.5762,19.5,3,ml,,216,0.677,0.85,us,us7000cn4x,2020-12-05T06:12:43.526Z,"144 km SSE of Sand Point, Alaska",earthquake,6.1,11.8,0.069,28,reviewed,us,us
+2020-12-04T06:12:42.210Z,11.5819,-87.2281,29,4.3,mb,,194,1.112,0.58,us,us7000cmv5,2020-12-04T06:28:10.040Z,"81 km WSW of Masachapa, Nicaragua",earthquake,5.6,10,0.119,20,reviewed,us,us
+2020-12-04T05:48:23.083Z,-31.3149,-68.9544,104.13,4.9,mb,,26,0.325,0.93,us,us7000cmus,2020-12-04T07:14:18.688Z,"33 km NW of Villa Basilio Nievas, Argentina",earthquake,6.3,5,0.04,193,reviewed,us,us
+2020-12-04T05:26:01.355Z,-7.6197,123.8114,333.5,4.5,mb,,36,1.856,1.01,us,us7000cmun,2020-12-04T06:15:40.040Z,"185 km NNW of Pante Makasar, Timor Leste",earthquake,8.6,7.4,0.095,32,reviewed,us,us
+2020-12-04T05:03:09.856Z,44.4561,-115.2019,13.69,2.5,ml,,63,0.298,0.51,us,us7000cmug,2020-12-04T15:15:38.880Z,"33 km NW of Stanley, Idaho",earthquake,3.2,9.5,0.057,40,reviewed,us,us
+2020-12-04T04:48:04.787Z,66.5793,-149.2361,14.5,2.7,ml,,,,0.99,ak,ak020fkpuokx,2020-12-04T04:59:26.520Z,"64 km N of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-12-04T04:40:59.534Z,13.6322,120.4251,77.88,4.4,mb,,144,3.897,0.65,us,us7000cp77,2020-12-09T02:43:22.040Z,"20 km N of Harrison, Philippines",earthquake,5.4,8.6,0.121,21,reviewed,us,us
+2020-12-04T04:35:29.993Z,-6.1839,113.9317,550.12,4.1,mb,,66,2.281,0.71,us,us7000cmua,2020-12-04T04:50:39.040Z,"91 km N of Sumenep, Indonesia",earthquake,12.5,9.8,0.135,15,reviewed,us,us
+2020-12-04T04:06:18.010Z,-23.8719,-66.5619,198.51,5.1,mww,,34,1.744,1.01,us,us7000cmu1,2020-12-04T05:19:33.040Z,"45 km NNW of San Antonio de los Cobres, Argentina",earthquake,6,6.1,0.057,30,reviewed,us,us
+2020-12-04T03:45:41.931Z,-5.1061,150.7465,173.05,4.2,mb,,131,1.679,1.11,us,us7000cp76,2020-12-09T02:27:22.040Z,"83 km NE of Kimbe, Papua New Guinea",earthquake,9.1,10.8,0.146,13,reviewed,us,us
+2020-12-04T03:18:25.150Z,36.7451668,-121.4503326,7.37,3.31,ml,67,45,0.01899,0.18,nc,nc73492895,2020-12-05T06:47:41.262Z,"11km SW of Ridgemark, CA",earthquake,0.21,0.42,0.216,20,automatic,nc,nc
+2020-12-04T02:53:59.591Z,-7.5336,-13.6843,10,4.5,mb,,94,0.778,0.37,us,us7000cp7a,2020-12-09T02:01:20.040Z,"91 km ENE of Georgetown, Saint Helena",earthquake,9,1.9,0.243,5,reviewed,us,us
+2020-12-04T02:43:58.193Z,-40.3709,78.2296,10,4.9,mb,,67,2.621,1.25,us,us7000cp7b,2020-12-09T01:51:17.040Z,"Mid-Indian Ridge",earthquake,10.6,1.4,0.145,15,reviewed,us,us
+2020-12-04T02:40:14.648Z,11.4764,-87.2368,10,4.5,mb,,190,1.176,0.73,us,us7000cmtj,2020-12-04T03:33:19.040Z,"85 km WSW of Masachapa, Nicaragua",earthquake,4.6,1.9,0.055,97,reviewed,us,us
+2020-12-04T02:37:52.948Z,54.554,-159.5293,27.22,4.2,mb,,169,0.279,0.69,us,us7000cmtc,2020-12-04T17:57:55.447Z,"106 km SE of Sand Point, Alaska",earthquake,6.6,8.5,0.2,7,reviewed,us,us
+2020-12-04T02:37:09.648Z,11.5379,-87.2561,10,4.4,mb,,160,1.158,1.05,us,us7000cmtg,2020-12-04T03:16:49.040Z,"85 km WSW of Masachapa, Nicaragua",earthquake,8.1,2,0.08,45,reviewed,us,us
+2020-12-04T02:33:34.938Z,11.5715,-87.5209,10,4.3,mb,,208,1.996,1.13,us,us7000cp83,2020-12-09T01:38:19.040Z,"107 km SSW of Corinto, Nicaragua",earthquake,12.6,2,0.113,22,reviewed,us,us
+2020-12-04T02:32:22.497Z,11.4572,-87.2958,10,4.3,mb,,204,1.234,0.85,us,us7000cmtb,2020-12-04T03:18:03.040Z,"92 km WSW of Masachapa, Nicaragua",earthquake,5.1,2,0.08,44,reviewed,us,us
+2020-12-04T02:20:02.148Z,11.548,-87.1664,36.6,5.1,mb,,53,1.079,1.03,us,us7000cmt9,2020-12-04T03:07:54.040Z,"75 km WSW of Masachapa, Nicaragua",earthquake,6,5.2,0.027,441,reviewed,us,us
+2020-12-04T02:19:47.449Z,11.5443,-87.1841,29.62,4.4,mb,,142,1.095,0.79,us,us7000cmt4,2020-12-04T02:52:34.040Z,"77 km WSW of Masachapa, Nicaragua",earthquake,7.4,7,0.047,131,reviewed,us,us
+2020-12-04T01:42:59.690Z,19.3368333333333,-155.1395,6.61,2.51,ml,50,109,,0.1,hv,hv72260017,2020-12-04T03:43:44.320Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.35,0.1298969520537,22,reviewed,hv,hv
+2020-12-04T01:31:24.551Z,-8.2685,159.2876,10,4.1,mb,,123,1.333,0.62,us,us7000cp73,2020-12-09T00:52:20.040Z,"36 km WSW of Buala, Solomon Islands",earthquake,9.5,1.9,0.214,7,reviewed,us,us
+2020-12-04T01:03:17.518Z,-60.2573,-19.0703,10,4.3,mb,,88,11.147,0.5,us,us7000cp78,2020-12-09T00:45:00.040Z,"east of the South Sandwich Islands",earthquake,13.6,1.9,0.178,10,reviewed,us,us
+2020-12-04T00:15:37.783Z,38.1662,-118.081,4.9,2.9,ml,18,75.99,0.024,0.1375,nn,nn00789093,2020-12-06T04:22:59.040Z,"25 km S of Mina, Nevada",earthquake,,1,0.28,13,reviewed,nn,nn
+2020-12-04T00:11:44.948Z,44.4402,-115.2189,12.54,2.6,ml,,81,0.292,0.51,us,us7000cmrm,2020-12-06T04:21:04.040Z,"33 km NW of Stanley, Idaho",earthquake,1.6,9.4,0.057,40,reviewed,us,us
+2020-12-03T23:12:20.026Z,-36.8008,77.388,10,4.8,mb,,59,1.004,0.93,us,us7000cnvm,2020-12-08T02:10:55.040Z,"Mid-Indian Ridge",earthquake,4.9,1.9,0.111,25,reviewed,us,us
+2020-12-03T21:56:39.629Z,38.1676,-118.0711,4.1,2.9,ml,28,76.31,0.017,0.1391,nn,nn00789036,2020-12-06T04:18:13.040Z,"24 km S of Mina, Nevada",earthquake,,0.9,0.26,14,reviewed,nn,nn
+2020-12-03T21:55:54.935Z,38.1731,-118.0608,5,2.6,ml,28,70.91,0.015,0.1335,nn,nn00789033,2020-12-06T04:16:31.040Z,"24 km S of Mina, Nevada",earthquake,,0.8,0.25,14,reviewed,nn,nn
+2020-12-03T21:03:31.760Z,17.9061,-66.8985,13,2.65,md,16,210,0.0716,0.14,pr,pr2020338013,2020-12-03T22:01:59.251Z,"7 km S of Guánica, Puerto Rico",earthquake,0.74,0.37,0.38,11,reviewed,pr,pr
+2020-12-03T20:56:50.850Z,40.3383331,-124.8526688,7.01,2.5,md,8,296,0.4166,0.1,nc,nc73492735,2020-12-04T00:41:07.377Z,"48km W of Petrolia, CA",earthquake,5.76,3.82,0.13,5,automatic,nc,nc
+2020-12-03T19:48:39.383Z,3.2862,98.2144,127.59,5.2,mb,,99,0.92,0.88,us,us7000cmnu,2020-12-03T20:06:19.040Z,"34 km WNW of Berastagi, Indonesia",earthquake,7,6.5,0.055,111,reviewed,us,us
+2020-12-03T19:11:50.420Z,34.087,-116.8525,2.57,2.55,ml,106,21,0.06366,0.15,ci,ci39484199,2020-12-06T01:25:26.360Z,"18km N of Banning, CA",earthquake,0.09,0.24,0.229,25,reviewed,ci,ci
+2020-12-03T17:55:07.727Z,-9.1867,113.2498,61.67,4.3,mb,,160,1.141,0.55,us,us7000cmm3,2020-12-03T19:40:02.040Z,"100 km S of Kencong, Indonesia",earthquake,6.4,7.8,0.122,19,reviewed,us,us
+2020-12-03T17:07:33.651Z,-22.8535,170.5044,10,5.4,mww,,78,2.669,1.5,us,us7000cmkn,2020-12-04T17:11:52.040Z,"southeast of the Loyalty Islands",earthquake,8.2,1.8,0.075,17,reviewed,us,us
+2020-12-03T16:53:00.700Z,54.3555,-159.8297,23.83,2.5,ml,,272,0.496,0.7,us,us7000cmpr,2020-12-03T21:46:55.040Z,"117 km SSE of Sand Point, Alaska",earthquake,3,11.1,0.128,8,reviewed,us,us
+2020-12-03T15:15:44.987Z,58.4853,-137.0416,5,2.6,ml,,156,0.677,1.33,us,us7000cmjv,2020-12-03T16:33:50.040Z,"52 km NW of Elfin Cove, Alaska",earthquake,1.9,1.9,0.046,61,reviewed,us,us
+2020-12-03T14:46:17.994Z,43.7523,145.397,137.6,4.1,mb,,175,2.058,1.04,us,us7000cmjs,2020-12-03T16:25:22.040Z,"23 km ENE of Shibetsu, Japan",earthquake,10.3,5.6,0.131,16,reviewed,us,us
+2020-12-03T13:45:49.176Z,38.1725,-118.0825,3.8,3.2,ml,32,44,0.027,0.1702,nn,nn00788834,2020-12-04T02:30:04.947Z,"24 km S of Mina, Nevada",earthquake,,1,0.21,15,reviewed,nn,nn
+2020-12-03T13:41:30.727Z,38.17,-118.0797,4.5,3.2,ml,30,48.08,0.024,0.1394,nn,nn00788827,2020-12-04T02:30:01.285Z,"24 km S of Mina, Nevada",earthquake,,1,0.19,15,reviewed,nn,nn
+2020-12-03T12:37:09.703Z,55.9185,110.9737,10,4.9,mb,,39,6.071,0.66,us,us7000cmj8,2020-12-03T12:53:22.040Z,"52 km WSW of Novyy Uoyan, Russia",earthquake,8.6,1.9,0.087,42,reviewed,us,us
+2020-12-03T12:27:13.367Z,38.1529,-117.9438,10.7,2.5,ml,29,47.67,0.019,0.1464,nn,nn00788771,2020-12-04T05:21:24.040Z,"30 km SSE of Mina, Nevada",earthquake,,0.5,0.15,14,reviewed,nn,nn
+2020-12-03T12:13:24.500Z,18.8605,-67.6383,23,3.18,md,11,309,0.5019,0.23,pr,pr2020338010,2020-12-03T12:34:10.285Z,"70 km NW of San Antonio, Puerto Rico",earthquake,1.15,14.78,0.09,6,reviewed,pr,pr
+2020-12-03T10:12:41.210Z,38.168,-118.0835,4.7,2.8,ml,30,71.49,0.026,0.1777,nn,nn00788710,2020-12-04T02:29:53.456Z,"24 km S of Mina, Nevada",earthquake,,1.1,0.21,16,reviewed,nn,nn
+2020-12-03T10:10:02.367Z,38.1716,-118.0568,5.2,3,ml,32,66.13,0.012,0.1464,nn,nn00788703,2020-12-04T02:29:47.141Z,"24 km S of Mina, Nevada",earthquake,,0.8,0.18,16,reviewed,nn,nn
+2020-12-03T09:16:45.913Z,44.2975,-115.1965,10,2.5,ml,,72,0.184,0.53,us,us7000cmib,2020-12-03T15:07:49.200Z,"22 km WNW of Stanley, Idaho",earthquake,2.2,2,0.053,46,reviewed,us,us
+2020-12-03T09:09:19.140Z,17.859,-66.8563,7,3.63,md,19,221,0.1183,0.16,pr,pr2020338007,2020-12-04T09:11:02.363Z,"13 km SSE of Guánica, Puerto Rico",earthquake,0.6,0.38,0.08,10,reviewed,pr,pr
+2020-12-03T09:05:31.180Z,31.9285,-116.2673333,18.89,2.51,ml,20,118,0.2819,0.25,ci,ci39483815,2020-12-04T05:18:36.040Z,"34km E of Ensenada, B.C., MX",earthquake,0.34,0.84,0.14,7,reviewed,ci,ci
+2020-12-03T08:09:35.960Z,36.574,74.1142,69.77,4.3,mb,,70,2.997,0.92,us,us7000cmi1,2020-12-09T12:24:24.040Z,"59 km WNW of Barishal, Pakistan",earthquake,7.1,6.4,0.105,29,reviewed,us,us
+2020-12-03T07:45:39.425Z,38.1599,-118.0802,6.9,2.5,ml,22,76.45,0.022,0.1443,nn,nn00789631,2020-12-09T12:03:52.040Z,"25 km S of Mina, Nevada",earthquake,,0.9,0.18,9,reviewed,nn,nn
+2020-12-03T07:42:26.688Z,-3.5803,140.8715,35,4.2,mb,,56,6.664,0.4,us,us7000cnv9,2020-12-09T12:38:04.040Z,"110 km SSW of Vanimo, Papua New Guinea",earthquake,10,2,0.159,14,reviewed,us,us
+2020-12-03T07:29:34.521Z,-24.1191,-66.9252,218.95,4.3,mb,,70,1.635,0.8,us,us7000cmhs,2020-12-07T13:01:52.040Z,"62 km W of San Antonio de los Cobres, Argentina",earthquake,8.9,7.9,0.116,21,reviewed,us,us
+2020-12-03T07:17:22.179Z,38.1639,-117.852,7.4,2.5,ml,8,123.93,0.015,0.0865,nn,nn00790910,2020-12-09T20:19:04.692Z,"33 km SE of Mina, Nevada",earthquake,,1.1,0.12,7,reviewed,nn,nn
+2020-12-03T07:17:13.800Z,38.1656,-117.8517,7.9,2.5,ml,18,94.88,0.016,0.1063,nn,nn00789064,2020-12-07T12:15:23.040Z,"33 km SE of Mina, Nevada",earthquake,,0.7,0.22,7,reviewed,nn,nn
+2020-12-03T06:42:20.173Z,38.1664,-118.0886,4.5,2.6,ml,22,76.68,0.03,0.1634,nn,nn00788538,2020-12-04T02:29:30.571Z,"24 km S of Mina, Nevada",earthquake,,1.2,0.27,14,reviewed,nn,nn
+2020-12-03T06:31:45.460Z,39.034832,-123.0693359,4.67,3.28,ml,35,73,0.2125,0.11,nc,nc73492440,2020-12-06T17:31:25.783Z,"13km W of Lakeport, CA",earthquake,0.32,1.13,0.322,7,automatic,nc,nc
+2020-12-03T06:22:55.013Z,38.1681,-118.0828,5.3,2.7,ml,28,71.48,0.026,0.161,nn,nn00788513,2020-12-04T02:29:28.171Z,"24 km S of Mina, Nevada",earthquake,,0.9,0.28,14,reviewed,nn,nn
+2020-12-03T06:17:22.558Z,54.2387,-159.6231,25.98,3.4,mb,,190,0.593,0.59,us,us7000cmha,2020-12-03T07:11:20.040Z,"134 km SSE of Sand Point, Alaska",earthquake,7.7,10.7,0.127,16,reviewed,us,us
+2020-12-03T05:54:23.525Z,38.1721,-118.0527,6.6,2.8,ml,31,53.72,0.012,0.145,nn,nn00788491,2020-12-04T02:29:25.260Z,"24 km SSE of Mina, Nevada",earthquake,,0.7,0.2,16,reviewed,nn,nn
+2020-12-03T05:45:20.109Z,37.9598,41.7322,10,5,mww,,53,0.635,0.6,us,us7000cmfa,2020-12-05T13:06:09.493Z,"5 km NE of Kurtalan, Turkey",earthquake,3.2,1.9,0.073,18,reviewed,us,us
+2020-12-03T05:30:33.234Z,38.1631,-118.091,5.5,2.5,ml,25,121.25,0.031,0.1947,nn,nn00788462,2020-12-03T21:24:09.537Z,"25 km S of Mina, Nevada",earthquake,,1.6,0.24,13,reviewed,nn,nn
+2020-12-03T05:23:49.773Z,38.1523,-118.0906,7,3.2,ml,22,46.47,0.031,0.1221,nn,nn00788457,2020-12-03T07:39:35.040Z,"26 km S of Mina, Nevada",earthquake,,1.9,0.34,9,reviewed,nn,nn
+2020-12-03T05:15:53.818Z,-15.0354,-72.9787,134.76,4.2,mb,,162,4.169,0.43,us,us7000cmej,2020-12-03T05:40:07.040Z,"18 km NNW of Mungui, Peru",earthquake,9,12,0.236,6,reviewed,us,us
+2020-12-03T05:15:29.993Z,38.175,-118.0654,5,4.9,ml,30,41.69,0.018,0.1367,nn,nn00788443,2020-12-05T05:31:29.591Z,"24 km S of Mina, Nevada",earthquake,,0.8,0.25,13,reviewed,nn,nn
+2020-12-03T03:59:20.600Z,19.3911666666667,-155.273666666667,1.79,3.12,ml,50,42,,0.13,hv,hv72257872,2020-12-04T06:22:42.016Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.12,0.206999967743561,20,reviewed,hv,hv
+2020-12-03T03:50:58.945Z,4.6019,97.8002,10,4.8,mb,,55,1.053,0.73,us,us7000cmdp,2020-12-04T06:11:11.040Z,"23 km NW of Langsa, Indonesia",earthquake,5.9,1.8,0.08,49,reviewed,us,us
+2020-12-03T03:19:42.963Z,38.1641,-117.8554,6.5,3,ml,24,65.73,0.013,0.1332,nn,nn00788382,2020-12-04T06:03:32.040Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.16,8,reviewed,nn,nn
+2020-12-03T03:18:10.464Z,38.1654,-117.858,4.6,4,ml,22,38.94,0.011,0.1345,nn,nn00788378,2020-12-04T05:55:58.003Z,"33 km SE of Mina, Nevada",earthquake,,0.7,0.28,9,reviewed,nn,nn
+2020-12-03T02:59:02.850Z,52.1337,-170.6544,35,3.1,ml,,215,0.832,1.01,us,us7000cmdv,2020-12-04T04:31:20.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,7.1,2,0.097,14,reviewed,us,us
+2020-12-03T02:37:25.893Z,-31.9266,-67.1115,122.46,5.2,mww,,41,1.392,0.92,us,us7000cmcg,2020-12-04T01:09:17.437Z,"102 km NW of Villa General Roca, Argentina",earthquake,7.6,4.9,0.048,41,reviewed,us,us
+2020-12-03T02:36:38.610Z,19.3196666666667,-155.4655,1.91,2.67,ml,47,42,,0.13,hv,hv72257657,2020-12-04T04:25:38.040Z,"12 km N of Pāhala, Hawaii",earthquake,0.22,0.57,0.158120236014231,25,reviewed,hv,hv
+2020-12-03T02:23:39.193Z,-4.6166,145.0121,61.3,4.4,mb,,104,3.472,0.61,us,us7000cmce,2020-12-04T04:22:10.040Z,"108 km NW of Madang, Papua New Guinea",earthquake,11.6,8.4,0.106,26,reviewed,us,us
+2020-12-03T01:52:50.351Z,-21.2907,-68.9931,118.87,4.6,mb,,37,0.523,0.68,us,us7000cmc5,2020-12-04T03:56:13.040Z,"129 km N of Calama, Chile",earthquake,3.3,5.1,0.132,17,reviewed,us,us
+2020-12-03T01:35:11.157Z,-7.1216,129.1086,170.06,4.7,mb,,61,2.333,0.6,us,us7000cmc2,2020-12-04T03:40:10.040Z,"279 km NE of Lospalos, Timor Leste",earthquake,8.3,6.4,0.147,14,reviewed,us,us
+2020-12-03T01:16:26.260Z,19.0801,-68.239,35,3.42,md,12,277,0.5838,0.62,pr,pr2020338001,2020-12-03T01:59:43.294Z,"57 km NNE of Punta Cana, Dominican Republic",earthquake,6.04,20.45,0.11,11,reviewed,pr,pr
+2020-12-03T01:08:43.073Z,54.3335,-159.7093,24.5,4.7,mwr,,157,0.503,0.69,us,us7000cmbw,2020-12-04T03:34:28.329Z,"122 km SSE of Sand Point, Alaska",earthquake,5.2,4.5,0.043,51,reviewed,us,us
+2020-12-03T00:37:49.494Z,58.4267,-137.1097,1.64,2.6,ml,,167,0.658,0.8,us,us7000cmbq,2020-12-03T01:12:12.040Z,"51 km WNW of Elfin Cove, Alaska",earthquake,2.8,10.5,0.056,42,reviewed,us,us
+2020-12-03T00:18:48.170Z,12.4981,144.5255,10,4.9,mb,,104,1.134,0.75,us,us7000cmbu,2020-12-03T01:23:50.040Z,"86 km S of Merizo Village, Guam",earthquake,8.8,1.7,0.092,37,reviewed,us,us
+2020-12-02T23:19:55.382Z,54.1919,-159.5492,19.2,2.7,ml,,,,1.25,ak,ak020fhpx8rm,2020-12-03T02:20:53.731Z,"141 km SSE of Sand Point, Alaska",earthquake,,5.2,,,reviewed,ak,ak
+2020-12-02T23:09:09.318Z,37.2424,-3.7963,10,3.4,ml,,110,2.082,0.59,us,us7000cmba,2020-12-03T23:04:09.650Z,"2 km NNW of Fuente Vaqueros, Spain",earthquake,5.4,2,0.091,16,reviewed,us,us
+2020-12-02T22:45:52.410Z,18.1863,-67.0396,16,2.62,md,11,87,0.1096,0.11,pr,pr2020337017,2020-12-02T23:10:11.918Z,"6 km W of Maricao, Puerto Rico",earthquake,0.26,0.79,0.14,8,reviewed,pr,pr
+2020-12-02T21:22:12.910Z,18.045,-66.7735,17,2.58,md,18,62,0.1267,0.14,pr,pr2020337016,2020-12-02T21:41:30.863Z,"3 km SW of Santo Domingo, Puerto Rico",earthquake,0.47,0.47,0.11,11,reviewed,pr,pr
+2020-12-02T20:58:29.322Z,31.652,-104.1954,9.47,2.5,ml,,59,0.151,0.25,us,us7000cm9w,2020-12-03T16:26:17.040Z,"53 km NW of Toyah, Texas",earthquake,1.3,2.1,0.056,42,reviewed,us,us
+2020-12-02T20:36:22.792Z,-3.4412,123.2681,11.95,5.2,mww,,41,2.434,1.06,us,us7000cm9n,2020-12-03T15:20:45.125Z,"102 km NE of Kendari, Indonesia",earthquake,3.7,3.7,0.075,17,reviewed,us,us
+2020-12-02T19:40:23.397Z,-6.1531,-107.4143,10,5.5,mww,,106,17.938,0.97,us,us7000cm92,2020-12-03T20:11:29.040Z,"central East Pacific Rise",earthquake,13.5,1.8,0.061,26,reviewed,us,us
+2020-12-02T19:22:22.845Z,38.1677,-118.0852,4.3,2.5,ml,26,76.52,0.027,0.1653,nn,nn00788166,2020-12-03T16:40:17.040Z,"24 km S of Mina, Nevada",earthquake,,1,0.29,14,reviewed,nn,nn
+2020-12-02T17:47:02.670Z,18.0025,-66.6828,10,2.62,md,13,109,0.0865,0.22,pr,pr2020337012,2020-12-02T18:03:19.823Z,"3 km ENE of Tallaboa, Puerto Rico",earthquake,0.6,0.49,0.24,8,reviewed,pr,pr
+2020-12-02T17:33:46.800Z,17.9091,-66.7808,6,3.06,md,17,228,0.1185,0.27,pr,pr2020337011,2020-12-03T16:17:39.040Z,"10 km SSE of Indios, Puerto Rico",earthquake,0.73,0.41,0.25,16,reviewed,pr,pr
+2020-12-02T17:27:50.824Z,38.17,-118.0667,6.1,2.9,ml,27,44.84,0.015,0.1371,nn,nn00788098,2020-12-03T16:09:41.040Z,"24 km S of Mina, Nevada",earthquake,,0.8,0.29,14,reviewed,nn,nn
+2020-12-02T17:27:43.630Z,17.9478,-67.0943,11,2.57,md,9,243,0.0545,0.12,pr,pr2020337010,2020-12-02T18:02:41.903Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.66,0.25,0.21,6,reviewed,pr,pr
+2020-12-02T17:27:21.096Z,38.1391,-118.0525,2.4,2.5,ml,25,77.97,0.021,0.1491,nn,nn00788096,2020-12-03T16:30:46.040Z,"28 km S of Mina, Nevada",earthquake,,0.7,0.29,11,reviewed,nn,nn
+2020-12-02T17:00:36.335Z,-24.2445,-69.3546,73.98,5.2,mww,,47,1.029,1.34,us,us7000cm6c,2020-12-03T15:07:27.340Z,"124 km ESE of Antofagasta, Chile",earthquake,3.1,4.2,0.073,18,reviewed,us,us
+2020-12-02T16:29:06.602Z,56.8662,-149.2906,14.3,2.6,ml,,,,1.02,ak,ak020fhlt67z,2020-12-08T03:07:45.040Z,"198 km ESE of Chiniak, Alaska",earthquake,,271.5,,,reviewed,ak,ak
+2020-12-02T16:14:14.519Z,-19.3189,-173.794,35,4.5,mb,,80,3.662,1.02,us,us7000cn2u,2020-12-08T03:06:52.040Z,"76 km SSE of Neiafu, Tonga",earthquake,7.3,2,0.191,8,reviewed,us,us
+2020-12-02T16:08:29.013Z,38.1653,-118.0826,4.2,3.9,ml,32,42.2,0.025,0.1381,nn,nn00788046,2020-12-08T03:03:11.278Z,"25 km S of Mina, Nevada",earthquake,,0.9,0.13,16,reviewed,nn,nn
+2020-12-02T15:38:20.018Z,-25.8634,-70.9023,20.39,4.3,mb,,172,0.393,0.97,us,us7000cm4k,2020-12-08T02:57:42.040Z,"65 km SW of Taltal, Chile",earthquake,4.7,5.9,0.188,8,reviewed,us,us
+2020-12-02T15:26:25.148Z,-17.3716,-178.1125,432.67,4.2,mb,,69,3.046,1.06,us,us7000cn2t,2020-12-08T02:54:49.040Z,"283 km ENE of Levuka, Fiji",earthquake,8.7,6,0.095,31,reviewed,us,us
+2020-12-02T14:30:04.688Z,-5.6953,147.5427,188.34,4.3,mb,,157,3.632,0.88,us,us7000cm41,2020-12-09T11:52:03.040Z,"101 km NNW of Finschhafen, Papua New Guinea",earthquake,8.6,10.2,0.142,14,reviewed,us,us
+2020-12-02T14:20:18.510Z,17.8696,-67.0345,32,2.56,md,6,266,0.1003,0.16,pr,pr2020337008,2020-12-02T14:35:56.800Z,"11 km S of La Parguera, Puerto Rico",earthquake,3.26,1.98,0.08,3,reviewed,pr,pr
+2020-12-02T14:07:12.292Z,38.1761,-118.0758,4.4,3.3,ml,32,67.89,0.025,0.1379,nn,nn00787962,2020-12-09T11:20:26.040Z,"23 km S of Mina, Nevada",earthquake,,0.9,0.21,16,reviewed,nn,nn
+2020-12-02T13:47:15.462Z,-31.8422,-67.1277,122.97,4.2,mb,,49,1.359,0.71,us,us7000cm3p,2020-12-09T10:57:41.040Z,"111 km E of Caucete, Argentina",earthquake,4.5,7.1,0.125,18,reviewed,us,us
+2020-12-02T13:09:33.385Z,41.9656,21.5417,10,3.9,mb,,66,1.757,0.49,us,us7000cm3i,2020-12-03T08:29:16.081Z,"1 km W of Јурумлери, North Macedonia",earthquake,2.2,2,0.23,5,reviewed,us,us
+2020-12-02T12:53:13.966Z,38.1646,-118.0923,4.5,2.6,ml,30,68.81,0.032,0.1313,nn,nn00787895,2020-12-03T02:30:16.529Z,"25 km S of Mina, Nevada",earthquake,,1.1,0.18,15,reviewed,nn,nn
+2020-12-02T12:15:59.432Z,59.6455,-165.0148,0,2.7,ml,,,,0.45,ak,ak020fhjcoan,2020-12-02T12:35:28.040Z,"63 km WSW of Kipnuk, Alaska",earthquake,,647,,,automatic,ak,ak
+2020-12-02T12:08:40.000Z,31.8633333,-117.0656667,5.67,2.59,ml,25,266,0.3414,0.23,ci,ci39482839,2020-12-02T22:59:31.454Z,"36km W of El Sauzal, B.C., MX",earthquake,0.73,31.61,0.17,25,reviewed,ci,ci
+2020-12-02T10:54:58.233Z,38.3607,23.4533,10,4.5,mwr,,60,1.095,0.72,us,us7000cm2t,2020-12-02T19:07:16.126Z,"3 km WNW of Árma, Greece",earthquake,3.8,1.9,0.068,21,reviewed,us,us
+2020-12-02T10:42:39.198Z,38.1693,-118.0616,6.5,2.6,ml,26,119.34,0.012,0.1323,nn,nn00787796,2020-12-03T02:30:11.105Z,"24 km S of Mina, Nevada",earthquake,,0.8,0.22,10,reviewed,nn,nn
+2020-12-02T10:41:01.738Z,38.1722,-118.0796,4.1,3.7,ml,33,41.86,0.025,0.1368,nn,nn00787789,2020-12-03T10:42:32.024Z,"24 km S of Mina, Nevada",earthquake,,0.9,0.16,16,reviewed,nn,nn
+2020-12-02T10:36:53.513Z,38.1707,-118.0838,3.4,3.2,ml,32,41.94,0.027,0.1562,nn,nn00787783,2020-12-03T02:32:49.112Z,"24 km S of Mina, Nevada",earthquake,,1,0.16,15,reviewed,nn,nn
+2020-12-02T10:20:24.159Z,44.4596,-115.29,7.16,2.6,ml,,63,0.34,0.72,us,us7000cm2f,2020-12-02T18:03:03.629Z,"38 km NW of Stanley, Idaho",earthquake,2.7,6.2,0.062,34,reviewed,us,us
+2020-12-02T10:06:21.730Z,19.4068336486816,-155.275161743164,1.0900000333786,2.5,md,15,55,,0.209999993,hv,hv72255772,2020-12-02T10:09:08.900Z,"5 km SW of Volcano, Hawaii",earthquake,0.24,0.400000006,1.29999995,11,automatic,hv,hv
+2020-12-02T09:55:00.132Z,38.1662,-118.0838,4.2,3,ml,27,71.62,0.026,0.1555,nn,nn00787744,2020-12-03T02:29:52.801Z,"24 km S of Mina, Nevada",earthquake,,1,0.24,12,reviewed,nn,nn
+2020-12-02T09:40:22.537Z,-15.2187,-173.2269,10,5.2,mb,,61,1.911,0.6,us,us7000cm25,2020-12-02T21:56:13.351Z,"101 km NE of Hihifo, Tonga",earthquake,10.1,1.9,0.036,252,reviewed,us,us
+2020-12-02T09:35:01.151Z,38.1708,-118.0787,4.6,3,ml,31,71.24,0.024,0.1525,nn,nn00787721,2020-12-03T02:29:49.909Z,"24 km S of Mina, Nevada",earthquake,,0.9,0.27,16,reviewed,nn,nn
+2020-12-02T09:29:54.466Z,27.9662,-111.3591,10,4.4,mb,,212,1.11,0.88,us,us7000cm22,2020-12-02T17:29:04.796Z,"31 km W of San Carlos, Mexico",earthquake,10.7,2,0.191,8,reviewed,us,us
+2020-12-02T07:58:51.910Z,19.1763333333333,-155.474666666667,33.07,3.16,md,53,79,,0.11,hv,hv72255667,2020-12-04T18:41:42.693Z,"2 km S of Pāhala, Hawaii",earthquake,0.44,0.64,0.11693022117085,25,reviewed,hv,hv
+2020-12-02T07:53:08.208Z,38.1714,-118.0699,4.2,2.5,ml,30,71.13,0.018,0.1113,nn,nn00787644,2020-12-03T02:29:46.463Z,"24 km S of Mina, Nevada",earthquake,,0.8,0.31,15,reviewed,nn,nn
+2020-12-02T07:51:56.106Z,-22.493,-66.1744,257.49,4.3,mb,,63,1.906,0.96,us,us7000cm1b,2020-12-02T12:13:59.040Z,"55 km WNW of Abra Pampa, Argentina",earthquake,9.2,11.2,0.16,11,reviewed,us,us
+2020-12-02T07:44:32.648Z,38.1714,-118.0789,4.3,3.2,ml,22,41.89,0.024,0.1808,nn,nn00787636,2020-12-03T02:31:47.352Z,"24 km S of Mina, Nevada",earthquake,,1,0.21,16,reviewed,nn,nn
+2020-12-02T07:37:12.896Z,-17.7962,-71.3688,69.46,4.7,mb,,165,1.131,0.75,us,us7000cm12,2020-12-02T07:59:53.040Z,"16 km S of Pacocha, Peru",earthquake,8.9,7.8,0.165,11,reviewed,us,us
+2020-12-02T07:30:41.303Z,27.0129,143.7138,17.82,4.7,mb,,123,1.366,0.7,us,us7000cm13,2020-12-02T07:54:02.040Z,"Bonin Islands, Japan region",earthquake,10.1,3.8,0.059,89,reviewed,us,us
+2020-12-02T07:00:18.892Z,38.1693,-118.0826,3.6,2.5,ml,27,76.37,0.026,0.1343,nn,nn00787613,2020-12-03T02:29:39.281Z,"24 km S of Mina, Nevada",earthquake,,1,0.21,13,reviewed,nn,nn
+2020-12-02T06:46:51.240Z,44.4385,-110.3215,3.85,2.62,md,15,124,0.05349,0.18,uu,uu60024304,2020-12-02T16:11:28.610Z,"66 km SSE of Mammoth, Wyoming",earthquake,0.3,0.93,0.619,9,reviewed,uu,uu
+2020-12-02T06:42:46.700Z,33.1856667,-115.7328333,3.3,2.51,ml,71,28,0.0925,0.21,ci,ci39482631,2020-12-03T06:47:07.691Z,"18km S of Bombay Beach, CA",earthquake,0.15,0.38,0.146,121,reviewed,ci,ci
+2020-12-02T06:08:22.402Z,38.1653,-118.0902,4.5,3.6,ml,30,42.21,0.031,0.1414,nn,nn00787562,2020-12-03T06:10:16.339Z,"25 km S of Mina, Nevada",earthquake,,1.1,0.18,15,reviewed,nn,nn
+2020-12-02T05:59:29.478Z,38.1642,-118.0772,8,2.7,ml,32,43.84,0.02,0.1538,nn,nn00787546,2020-12-03T02:29:26.902Z,"25 km S of Mina, Nevada",earthquake,,0.7,0.26,16,reviewed,nn,nn
+2020-12-02T05:46:50.420Z,38.1727,-118.0816,4.7,2.8,ml,32,41.84,0.027,0.1624,nn,nn00787532,2020-12-03T02:29:21.681Z,"24 km S of Mina, Nevada",earthquake,,0.9,0.22,15,reviewed,nn,nn
+2020-12-02T05:35:35.479Z,38.1698,-118.0903,3.8,2.7,ml,21,68.43,0.032,0.1514,nn,nn00787522,2020-12-02T20:22:18.315Z,"24 km S of Mina, Nevada",earthquake,,1.2,0.27,14,reviewed,nn,nn
+2020-12-02T04:53:57.808Z,-8.4639,123.3199,156.44,4.5,mb,,118,1.084,0.64,us,us7000cm0a,2020-12-03T06:04:33.040Z,"123 km E of Maumere, Indonesia",earthquake,6.1,6.9,0.108,25,reviewed,us,us
+2020-12-02T04:49:28.774Z,38.1692,-118.0711,4.1,4.4,ml,28,41.98,0.018,0.1205,nn,nn00787479,2020-12-04T01:56:59.371Z,"24 km S of Mina, Nevada",earthquake,,0.8,0.23,13,reviewed,nn,nn
+2020-12-02T04:29:23.232Z,25.4267,142.4397,35,4.9,mb,,122,1.677,0.71,us,us7000cm05,2020-12-03T05:15:33.040Z,"Volcano Islands, Japan region",earthquake,11.5,2,0.09,39,reviewed,us,us
+2020-12-02T03:49:15.026Z,38.167,-118.0901,4.2,3.6,ml,28,42.13,0.031,0.1135,nn,nn00787419,2020-12-03T03:50:57.460Z,"24 km S of Mina, Nevada",earthquake,,0.9,0.2,12,reviewed,nn,nn
+2020-12-02T03:40:25.399Z,38.1744,-118.0599,4.2,2.8,ml,30,41.71,0.016,0.1206,nn,nn00787407,2020-12-03T01:28:57.040Z,"24 km S of Mina, Nevada",earthquake,,0.7,0.25,14,reviewed,nn,nn
+2020-12-02T03:39:28.380Z,17.85,-66.9103,15,2.62,md,15,250,0.1289,0.13,pr,pr2020337002,2020-12-02T03:53:57.145Z,"13 km S of Guánica, Puerto Rico",earthquake,0.58,1.28,0.17,8,reviewed,pr,pr
+2020-12-02T03:27:17.024Z,-12.9631,-77.1416,37.34,5,mb,,73,1.012,0.74,us,us7000clyn,2020-12-03T01:25:17.806Z,"64 km WSW of Mala, Peru",earthquake,9,6.6,0.133,18,reviewed,us,us
+2020-12-02T03:24:27.767Z,38.1756,-118.0611,4.5,2.6,ml,32,41.65,0.017,0.1365,nn,nn00787392,2020-12-02T23:19:01.040Z,"24 km S of Mina, Nevada",earthquake,,0.8,0.29,16,reviewed,nn,nn
+2020-12-02T03:22:40.129Z,38.1668,-118.0658,6.6,2.5,ml,29,72.15,0.013,0.1122,nn,nn00787389,2020-12-02T22:29:14.040Z,"25 km S of Mina, Nevada",earthquake,,0.7,0.23,14,reviewed,nn,nn
+2020-12-02T02:59:33.331Z,19.3269,-108.4978,10,4.3,mb,,204,6.511,0.82,us,us7000clwh,2020-12-02T04:24:52.040Z,"Revilla Gigedo Islands region",earthquake,11.2,2,0.108,24,reviewed,us,us
+2020-12-02T02:56:03.445Z,38.1711,-118.0731,4,2.9,ml,23,69.84,0.02,0.1177,nn,nn00787357,2020-12-02T16:00:10.671Z,"24 km S of Mina, Nevada",earthquake,,1,0.33,10,reviewed,nn,nn
+2020-12-02T02:55:54.748Z,38.1711,-118.0733,4.3,2.5,ml,22,76.1,0.02,0.0982,nn,nn00787355,2020-12-02T16:15:57.528Z,"24 km S of Mina, Nevada",earthquake,,1.1,0.29,10,reviewed,nn,nn
+2020-12-02T02:52:40.201Z,38.1589,-118.0987,4.2,3.3,ml,13,65.95,0.037,0.1835,nn,nn00787350,2020-12-02T17:12:10.937Z,"25 km S of Mina, Nevada",earthquake,,2,0.13,8,reviewed,nn,nn
+2020-12-02T02:42:04.304Z,38.1703,-118.0767,6.09,2.6,ml,,30,0.021,0.48,us,us7000clw7,2020-12-02T17:33:56.094Z,"24 km S of Mina, Nevada",earthquake,1.3,7,0.042,76,reviewed,us,us
+2020-12-02T02:28:30.081Z,38.1632,-118.0962,3.8,2.7,ml,27,77.01,0.035,0.1529,nn,nn00787319,2020-12-02T20:07:16.215Z,"25 km S of Mina, Nevada",earthquake,,1.1,0.23,12,reviewed,nn,nn
+2020-12-02T02:27:29.587Z,38.1697,-118.082,3.8,2.5,ml,21,90.94,0.026,0.1357,nn,nn00787317,2020-12-02T20:34:56.576Z,"24 km S of Mina, Nevada",earthquake,,1.1,0.22,9,reviewed,nn,nn
+2020-12-02T02:24:00.110Z,38.1761,-118.0713,5.33,4.3,ml,,123,0.224,0.2,us,us7000clvy,2020-12-03T02:26:23.355Z,"24 km S of Mina, Nevada",earthquake,5.5,3.1,0.074,24,reviewed,us,us
+2020-12-02T02:23:45.029Z,38.1754,-118.0725,4.3,4.4,ml,25,41.69,0.022,0.149,nn,nn00787309,2020-12-04T01:57:01.841Z,"24 km S of Mina, Nevada",earthquake,,1.1,0.26,11,reviewed,nn,nn
+2020-12-02T01:05:18.935Z,38.1677,-118.067,7.5,2.8,ml,29,68.46,0.014,0.1435,nn,nn00787219,2020-12-02T18:55:10.035Z,"24 km S of Mina, Nevada",earthquake,,0.7,0.3,14,reviewed,nn,nn
+2020-12-02T00:54:41.747Z,38.4044,75.4485,140.17,4.1,mb,,170,3.038,0.54,us,us7000cn26,2020-12-08T02:46:52.040Z,"127 km SSW of Kashgar, China",earthquake,9.3,12.5,0.233,5,reviewed,us,us
+2020-12-02T00:46:15.840Z,38.1695,-118.0611,7,3,ml,32,41.94,0.012,0.1271,nn,nn00787206,2020-12-08T02:43:44.040Z,"24 km S of Mina, Nevada",earthquake,,0.7,0.25,17,reviewed,nn,nn
+2020-12-02T00:29:33.499Z,38.1742,-118.0519,7.8,3.2,ml,24,41.68,0.014,0.1169,nn,nn00787182,2020-12-08T02:42:44.040Z,"24 km SSE of Mina, Nevada",earthquake,,0.9,0.2,10,reviewed,nn,nn
+2020-12-02T00:21:47.503Z,-14.8382,168.0835,10,4.4,mb,,123,6.735,0.8,us,us7000cn25,2020-12-08T02:41:36.040Z,"111 km ENE of Port-Olry, Vanuatu",earthquake,14,1.9,0.155,12,reviewed,us,us
