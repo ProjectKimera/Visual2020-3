@@ -22,6 +22,7 @@ Este enlace arroja datos en formato f000 los cuales son formateados en un JSON
 
 
 ![JSON](https://kuwago-files.s3.amazonaws.com/JSON.png)
+
 Para la visualización del viento se utiliza un sistema de partículas, las cuales se crean con dos vectores, un vector para la posición y un vector para el viento, al procesar el archivo JSON se obtienen tanto la posición basado en un sistema de latitud y longitud y las componentes **u** y **v** del viento para crear el vector de velocidad del viento. Se utilizan partículas ya que estas se les pueden agregar posiciones, fuerzas y direcciones que permiten una mejor visualización.
 
 ![Viento](https://kuwago-files.s3.amazonaws.com/res_1.png)
@@ -29,7 +30,7 @@ Para la visualización del viento se utiliza un sistema de partículas, las cual
 En la imagen anterior se puede ver el resultado en el cual se ve la dirección del viento y donde es más fuerte, aunque no se consigue realizar una simulación en movimiento del viento se pueden observar de forma estática  las corrientes de aire. 
 
 Adicional a la información del viento se hace otro acercamiento en la visualización de datos, en este caso datos sobre terremotos en el mundo, los datos se obtuvieron del siguiente enlace:
-[https://earthquake.usgs.gov/fdsnws/event/1/query.csv?starttime=2020-12-02%2000:00:00&endtime=2020-12-09%2023:59:59&minmagnitude=2.5&orderby=time](https://earthquake.usgs.gov/fdsnws/event/1/query.csv?starttime=2020-12-02%2000:00:00&endtime=2020-12-09%2023:59:59&minmagnitude=2.5&orderby=time)
+[https://earthquake.usgs.gov/fdsnws/event/1/query.csv?starttime=2020-12-02%2000:00:00&endtime=2020-12-09%2023:59:59&minmagnitude=2.5&orderby=time](https://earthquake.usgs.gov/fdsnws/event/1/query.csv?starttime=2020-12-02%2000:00:00&endtime=2020-12-09%2023:59:59&minmagnitude=2.5&orderby=time). 
 Para este caso la aproximación es un poco más sencilla, el dataset consta de coordenadas en grados y la magnitud del terremoto, con estos valores se ubica el punto en el cual se registro la actividad sísmica y basado en la magnitud se calcula el diámetro del circulo que usaremos para mostrar los datos, dado que la mayoría de sismos que se presentan al rededor del mundo son de baja intensidad se realiza un escalamiento para una mejor visualización como se puede observar.
 
 ![Sismos](https://kuwago-files.s3.amazonaws.com/res_2.png)
@@ -48,10 +49,15 @@ Una vez los datos estén en este formato pasan la imagen como fuentes de datos a
 
 ## Referencias
 [Vladimir Agafonkin - webgl-wind](https://github.com/mapbox/webgl-wind)
+
 [How I built a wind map with WebGL](https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f)
+
 [Lluvia purpura en processing](https://youtu.be/KkyIDI6rQJI?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
+
 [Mapping Earthquake data](https://youtu.be/ZiYdOwOrGyc?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+
 [Simulating Forces: Gravity and Wind](https://youtu.be/Uibl0UE4VH8)
+
 [Sistema de particulas P5](https://p5js.org/es/examples/simulate-particle-system.html)
 
 
