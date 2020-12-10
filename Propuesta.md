@@ -22,28 +22,27 @@ Este enlace arroja datos en formato f000 los cuales son formateados en un JSON
 
 
 ![JSON](https://kuwago-files.s3.amazonaws.com/JSON.png)
-
-Para la visualización del viento se utiliza un sistema de particulas, las cuales se crean con dos vectores, un vector para la posición y un vector para el viento, al procesar el archivo JSON se obtienen tanto la posición basado en un sistema de latitud y longitud y las componentes u y v del viento para crear el vector de velocidad del viento. Se utilizan particulas ya que estas se les pueden agregar posiciones, fuerzas y direcciones que permiten uma mejor visualización.
+Para la visualización del viento se utiliza un sistema de partículas, las cuales se crean con dos vectores, un vector para la posición y un vector para el viento, al procesar el archivo JSON se obtienen tanto la posición basado en un sistema de latitud y longitud y las componentes **u** y **v** del viento para crear el vector de velocidad del viento. Se utilizan partículas ya que estas se les pueden agregar posiciones, fuerzas y direcciones que permiten una mejor visualización.
 
 ![Viento](https://kuwago-files.s3.amazonaws.com/res_1.png)
 
-En la imagen anterior se puede ver el resultado en el cual se ve la dirección del viento y donde es más fuerte, aunque no se consigue realizar una simulación en movimiento del viento se pueden observar de forma estatica las corrientes de aire. 
+En la imagen anterior se puede ver el resultado en el cual se ve la dirección del viento y donde es más fuerte, aunque no se consigue realizar una simulación en movimiento del viento se pueden observar de forma estática  las corrientes de aire. 
 
 Adicional a la información del viento se hace otro acercamiento en la visualización de datos, en este caso datos sobre terremotos en el mundo, los datos se obtuvieron del siguiente enlace:
 [https://earthquake.usgs.gov/fdsnws/event/1/query.csv?starttime=2020-12-02%2000:00:00&endtime=2020-12-09%2023:59:59&minmagnitude=2.5&orderby=time](https://earthquake.usgs.gov/fdsnws/event/1/query.csv?starttime=2020-12-02%2000:00:00&endtime=2020-12-09%2023:59:59&minmagnitude=2.5&orderby=time)
-Para este caso la aproximación es un poco más sencilla, el dataset consta de cordenadas en grados y la magnitud del terremoto, con estos valores se ubica el punto en el cual se registro la actividad sismica y basado en la magnitud se calcula el diametro del circulo que usaremos para mostrar los datos, dado que la mayoria de sismos que se presentan al rededor del mundo son de baja intensidad se realiza un scalamiento par auna mejor visualización como se puede observar.
+Para este caso la aproximación es un poco más sencilla, el dataset consta de coordenadas en grados y la magnitud del terremoto, con estos valores se ubica el punto en el cual se registro la actividad sísmica y basado en la magnitud se calcula el diámetro del circulo que usaremos para mostrar los datos, dado que la mayoría de sismos que se presentan al rededor del mundo son de baja intensidad se realiza un escalamiento para una mejor visualización como se puede observar.
 
 ![Sismos](https://kuwago-files.s3.amazonaws.com/res_2.png)
 
 ## Conclusiones
-Para la visualización de datos se pueden usar muchas tecnicas, dependiendo tanto del formato en el cual tenemos nuestra información y la cantidad de datos que vayamos a mostrar. Tambien se debe tener en cuenta e rendimiento de la técnica a utilizar, al realizar la reenderización del mapa de viento el rendimiento del computador en el cual se hace el proceso se ve fuertmenete afectado y es por la cantidad de particulas que esta reenderizando, al rededor de 30 mil particulas, situación que no ocurre al mostrar los sismos.
+Para la visualización de datos se pueden usar muchas técnicas, dependiendo tanto del formato en el cual tenemos nuestra información y la cantidad de datos que vayamos a mostrar. También se debe tener en cuenta e rendimiento de la técnica a utilizar, al realizar la renderización del mapa de viento el rendimiento del computador en el cual se hace el proceso se ve fuertemente afectado y es por la cantidad de partículas que esta renderizando, al rededor de 30 mil partículas, situación que no ocurre al mostrar los sismos.
 
 ## Futuras estrategias
-Para nuestro poryecto tomamos varias referencias entre las cuales esta el repositorio de [Vladimir Agafonkin - webgl-wind](https://github.com/mapbox/webgl-wind) en el cual utilizan la misma fuente de información pero su aproximación es mapear estos datos en una imagen png.
+Para nuestro proyecto tomamos varias referencias entre las cuales esta el repositorio de [Vladimir Agafonkin - webgl-wind](https://github.com/mapbox/webgl-wind) en el cual utilizan la misma fuente de información pero su aproximación es mapear estos datos en una imagen **.png**.
 
 ![enter image description here](https://kuwago-files.s3.amazonaws.com/wind.png)
 
-Una vez los datos esten en este formato pasan la imagen como fuentes de datos a un modelo de viento de  WebGL y hacer el reenderizado por medio de shaders, esta estrategia presenta un mayor rendimiento, en caso de continuar con el proyecto se tiene pensado abordar esta estrategia pero en la libreria de p5.js.
+Una vez los datos estén en este formato pasan la imagen como fuentes de datos a un modelo de viento de  WebGL y hacer el renderizado por medio de shaders, esta estrategia presenta un mayor rendimiento, en caso de continuar con el proyecto se tiene pensado abordar esta estrategia pero en la librería de **p5.js**.
 
 
 
@@ -54,4 +53,6 @@ Una vez los datos esten en este formato pasan la imagen como fuentes de datos a 
 [Mapping Earthquake data](https://youtu.be/ZiYdOwOrGyc?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 [Simulating Forces: Gravity and Wind](https://youtu.be/Uibl0UE4VH8)
 [Sistema de particulas P5](https://p5js.org/es/examples/simulate-particle-system.html)
+
+
 
