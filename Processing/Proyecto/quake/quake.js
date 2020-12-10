@@ -32,7 +32,7 @@ function setup() {
       var d =  map(Emag, 0, MaxMag, 0, 180);
       var x =  getXCoords(Elon) - cx;
       var y =  getYCoords(Elat) - cy;
-      stroke(255, 0, 255);
+      stroke(Emag);
       fill(255, 0, 255, 200);
       ellipse(x, y, d, d);
     }
