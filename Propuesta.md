@@ -23,7 +23,7 @@ Este enlace arroja datos en formato f000 los cuales son formateados en un JSON
 
 ![JSON](https://kuwago-files.s3.amazonaws.com/JSON.png)
 
-Para la visualización del viento se utiliza un sistema de partículas, las cuales se crean con dos vectores, un vector para la posición y un vector para el viento, al procesar el archivo JSON se obtienen tanto la posición basado en un sistema de latitud y longitud y las componentes **u** y **v** del viento para crear el vector de velocidad del viento. Se utilizan partículas ya que estas se les pueden agregar posiciones, fuerzas y direcciones que permiten una mejor visualización.
+Para la visualización del viento se utiliza un sistema de partículas, las cuales se crean con dos vectores, un vector para la posición y un vector para el viento, al procesar el archivo JSON se obtienen tanto la posición basado en un sistema de latitud y longitud y las componentes **u** y **v** del viento para crear el vector de velocidad del viento. Se utilizan partículas ya que a estas se les pueden agregar posiciones, fuerzas y direcciones que permiten una mejor visualización.
 
 ![Viento](https://kuwago-files.s3.amazonaws.com/res_1.png)
 
@@ -36,7 +36,7 @@ Para este caso la aproximación es un poco más sencilla, el dataset consta de c
 ![Sismos](https://kuwago-files.s3.amazonaws.com/res_2.png)
 
 ## Conclusiones
-Para la visualización de datos se pueden usar muchas técnicas, dependiendo tanto del formato en el cual tenemos nuestra información y la cantidad de datos que vayamos a mostrar. También se debe tener en cuenta e rendimiento de la técnica a utilizar, al realizar la renderización del mapa de viento el rendimiento del computador en el cual se hace el proceso se ve fuertemente afectado y es por la cantidad de partículas que esta renderizando, al rededor de 30 mil partículas, situación que no ocurre al mostrar los sismos.
+Para la visualización de datos se pueden usar muchas técnicas, dependiendo tanto del formato en el cual tenemos nuestra información y la cantidad de datos que vayamos a mostrar. También se debe tener en cuenta el rendimiento de la técnica a utilizar, al realizar la renderización del mapa de viento el rendimiento del computador en el cual se hace el proceso se ve fuertemente afectado y es por la cantidad de partículas que está renderizando, al rededor de 30 mil partículas, situación que no ocurre al mostrar los sismos.
 
 ## Futuras estrategias
 Para nuestro proyecto tomamos varias referencias entre las cuales esta el repositorio de [Vladimir Agafonkin - webgl-wind](https://github.com/mapbox/webgl-wind) en el cual utilizan la misma fuente de información pero su aproximación es mapear estos datos en una imagen **.png**.
